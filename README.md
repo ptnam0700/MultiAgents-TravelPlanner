@@ -1,8 +1,8 @@
-# MultiAgents-with-CrewAI-TravelItineraryPlanner
+# MultiAgents-with-Langgraph-TravelItineraryPlanner
 
-Welcome to the **AI Travel Itinerary Planner**, a modular multi-agent system built with Streamlit, LangGraph, and CrewAI-inspired architecture. This application leverages multiple AI agents to generate personalized travel itineraries and provide additional travel-related insights based on user preferences. The system is designed for modularity, with agents split into individual scripts for maintainability and scalability.
+Welcome to the **AI Travel Itinerary Planner**, a modular multi-agent system built with Streamlit, LangGraph, and Ollama. This application leverages multiple AI agents to generate personalized travel itineraries and provide additional travel-related insights based on user preferences. The system is designed for modularity, with agents split into individual scripts for maintainability and scalability.
 
-- **Repository**: [https://github.com/vikrambhat2/MultiAgents-with-CrewAI-TravelItineraryPlanner](https://github.com/vikrambhat2/MultiAgents-with-CrewAI-TravelItineraryPlanner)
+- **Repository**: [https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner](https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner)
 
 
 ## Overview
@@ -29,16 +29,16 @@ MultiAgents-with-CrewAI-TravelItineraryPlanner/
 │   ├── weather_forecaster.py
 │   ├── packing_list_generator.py
 │   ├── food_culture_recommender.py
-│   └── chat.py
+│   └── chat_agent.py
 │
-├── utils.py
+├── export_utils.py
 ├── travel_agent.py
 ├── requirements.txt
 └── .env
 ```
 
 - **agents/**: Contains individual Python scripts for each agent, modularizing the logic.
-- **utils.py**: Houses shared utility functions (e.g., PDF export).
+- **export_utils.py**: Houses shared utility functions (e.g., PDF export).
 - **travel_agent.py**: The main Streamlit application file that orchestrates the workflow and UI.
 - **requirements.txt**: Lists project dependencies.
 - **.env**: Stores environment variables (e.g., `SERPER_API_KEY`).
@@ -52,9 +52,9 @@ MultiAgents-with-CrewAI-TravelItineraryPlanner/
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/vikrambhat2/MultiAgents-with-CrewAI-TravelItineraryPlanner.git
-   cd MultiAgents-with-CrewAI-TravelItineraryPlanner
+   ```
+   git clone https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner.git
+   cd MultiAgents-with-Langgraph-TravelItineraryPlanner
    ```
 2. Install dependencies:
    ```bash
@@ -93,8 +93,7 @@ This project is open-source. See the [LICENSE](LICENSE) file for details (if app
 
 ## Acknowledgements
 - Built with Streamlit, LangGraph, LangChain, and Ollama.
-- Inspired by CrewAI multi-agent frameworks.
 - Thanks to the open-source community for tools and libraries!
 
 ## Contact
-For questions or support, reach out to [vikrambhat2](https://github.com/vikrambhat2) or open an issue in the repository.
+For questions or support, reach out to me on LinkedIn: [Vikram Bhat](https://www.linkedin.com/in/vikrambhat249/) or open an issue in the repository.
