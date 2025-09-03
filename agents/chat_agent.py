@@ -1,20 +1,22 @@
 from langchain_core.messages import HumanMessage
 from langchain_community.chat_models import ChatOllama
 import json
+from llm_config import LLMConfig
 
 def chat_node(state):
-    llm = ChatOllama(model="llama3.2", base_url="http://localhost:11434")
+    llm = LLMConfig.get_openai_llm()
+    
     prompt = f"""
-    Context:
-    Preferences: {json.dumps(state['preferences'], indent=2)}
-    Itinerary: {state['itinerary']}
+        Context:
+        Preferences: {json.dumps(state['preferences'], indent=2)}
+        Itinerary: {state['itinerary']}
 
-    User Question:
-    {state['user_question']}
+        User Question:
+        {state['user_question']}
 
-    Respond conversationally with insights or suggestions : keep your response brief
-    {{ "chat_response": "Your response here" }}
-    """
+        Respond conversationally with insights or suggestions : keep your response brief
+        {{ "chat_response": "Your response here" }}
+        """
     try:
         result = llm.invoke([HumanMessage(content=prompt)]).content
         try:

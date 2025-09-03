@@ -7,7 +7,12 @@ Welcome to the **AI Travel Itinerary Planner**, a modular multi-agent system bui
 
 ## Overview
 
-The AI Travel Itinerary Planner uses a LangGraph workflow to manage a set of agents that collaboratively process user inputs (e.g., destination, month, duration) to produce a detailed itinerary, activity suggestions, weather forecasts, packing lists, food/culture recommendations, useful links, and a chat interface. The system integrates with Ollama (for the `llama3.2` model) and the Google Serper API for web searches.
+The Vietnam Travel Planner uses a LangGraph workflow to manage a set of agents that collaboratively process user inputs (e.g., destination, month, duration) to produce a detailed itinerary, activity suggestions, weather forecasts, packing lists, food/culture recommendations, useful links, and a chat interface. 
+
+**🌟 NEW: ChromaDB Vector Database Integration**
+The system now includes a ChromaDB vector database populated with hidden Vietnamese travel gems, local knowledge, and niche information from articles and blogs. This enables authentic, local recommendations that go beyond typical tourist guides.
+
+The system integrates with OpenAI API (chatGPT-o4-mini model) and the Google Serper API for web searches, enhanced with local Vietnamese travel knowledge through semantic search.
 
 ## Features
 - Generate a detailed travel itinerary with daily plans, dining options, and downtime.
@@ -47,36 +52,34 @@ MultiAgents-with-CrewAI-TravelItineraryPlanner/
 
 ### Prerequisites
 - Python 3.8 or higher.
-- Ollama installed and running locally with the `llama3.2` model (`ollama pull llama3.2`).
+- OPENAI API key.
 - A Google Serper API key.
 
 ### Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/vikrambhat2/MultiAgents-with-Langgraph-TravelItineraryPlanner.git
-   cd MultiAgents-with-Langgraph-TravelItineraryPlanner
-   ```
-2. Install dependencies:
+1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   uv sync
    ```
-3. Set up environment variables:
-   - Create a `.env` file in the root directory.
-   - Add your `SERPER_API_KEY`:
-     ```
+
+2. Set up environment variables:
+   - Create a `.env` file in the root directory:
+     ```bash
      SERPER_API_KEY=your_api_key_here
+     OPENAI_GPT4_API_KEY=your_api_key_here
+     HOST_JPE=your_base_url  # Optional, for custom OpenAI endpoints
      ```
-4. Start Ollama locally (if not already running):
+
+3. **🆕 Initialize ChromaDB with Vietnamese travel data:**
    ```bash
-   ollama serve
+   uv run python setup_chromadb.py
    ```
+   This will create and populate the vector database with local Vietnamese travel knowledge.
 
 ### Running the Application
 1. Launch the Streamlit app:
    ```bash
    streamlit run travel_agent.py
    ```
-2. Open your browser and navigate to the provided URL (e.g., `http://localhost:8501`).
 
 ## Usage
 - Enter your travel preferences (destination, month, duration, etc.) in the form.

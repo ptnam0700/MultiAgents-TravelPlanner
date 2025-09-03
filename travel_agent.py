@@ -3,20 +3,30 @@ import json
 from typing import TypedDict, Annotated
 from langgraph.graph import StateGraph, END
 from langchain_core.messages import HumanMessage
-from langchain_community.chat_models import ChatOllama
+from langchain_openai import ChatOpenAI
+
 from langchain_community.utilities import GoogleSerperAPIWrapper
 from dotenv import load_dotenv
 import os
 from agents import generate_itinerary, recommend_activities, fetch_useful_links, weather_forecaster, packing_list_generator, food_culture_recommender, chat_agent
 from utils_export import export_to_pdf
 
+from IPython.display import display, Image
+import matplotlib.pyplot as plt
+from PIL import Image as PILImage
+from io import BytesIO
+
 # Load environment variables
 load_dotenv()
 
 # Initialize LLM
-st.set_page_config(page_title="AI Travel Planner", layout="wide")
+st.set_page_config(page_title="SaturdAI - Vietnam Travel Planner", layout="wide")
 try:
-    llm = ChatOllama(model="llama3.2", base_url="http://localhost:11434")
+    llm = ChatOpenAI(
+        model="gpt-4o-mini", 
+        api_key=os.getenv("OPENAI_GPT4_API_KEY"),
+        base_url=os.getenv("HOST_JPE"),
+    )
 except Exception as e:
     st.error(f"LLM initialization failed: {str(e)}")
     st.stop()
@@ -52,7 +62,16 @@ workflow.add_node("weather_forecaster", weather_forecaster.weather_forecaster)
 workflow.add_node("packing_list_generator", packing_list_generator.packing_list_generator)
 workflow.add_node("food_culture_recommender", food_culture_recommender.food_culture_recommender)
 workflow.add_node("chat", chat_agent.chat_node)
+
 workflow.set_entry_point("generate_itinerary")
+
+workflow.add_edge("generate_itinerary", "recommend_activities") 
+workflow.add_edge("generate_itinerary", "fetch_useful_links")
+workflow.add_edge("generate_itinerary", "weather_forecaster")
+workflow.add_edge("generate_itinerary", "packing_list_generator")
+workflow.add_edge("generate_itinerary", "food_culture_recommender")
+workflow.add_edge("generate_itinerary", "chat")
+
 workflow.add_edge("generate_itinerary", END)
 workflow.add_edge("recommend_activities", END)
 workflow.add_edge("fetch_useful_links", END)
@@ -64,7 +83,7 @@ graph = workflow.compile()
 
 # ------------------- UI -------------------
 
-st.markdown("# AI-Powered Travel Itinerary Planner")
+st.markdown("# SaturdAI - Vietnam Travel Planner")
 
 if "state" not in st.session_state:
     st.session_state.state = {

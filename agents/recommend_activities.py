@@ -1,9 +1,9 @@
 from langchain_core.messages import HumanMessage
-from langchain_community.chat_models import ChatOllama
 import json 
+from llm_config import LLMConfig 
 
 def recommend_activities(state):
-    llm = ChatOllama(model="llama3.2", base_url="http://localhost:11434")
+    llm = LLMConfig.get_openai_llm()
     prompt = f"""
     Based on the following preferences and itinerary, suggest unique local activities:
     Preferences: {json.dumps(state['preferences'], indent=2)}
@@ -11,6 +11,7 @@ def recommend_activities(state):
 
     Provide suggestions in bullet points for each day if possible.
     """
+    
     try:
         result = llm.invoke([HumanMessage(content=prompt)]).content
         return {"activity_suggestions": result.strip()}
