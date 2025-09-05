@@ -24,9 +24,9 @@ stories_rag:
   chunk_overlap: 100
   k: 3
 
-# langsmith:
-#   tracing: "true"
-#   project_name: "rag_sqlagent_project"
+langsmith:
+  tracing: "true"
+  project_name: "travel-planner-rag"
 
 tavily_search_api:
   tavily_search_max_results: 5

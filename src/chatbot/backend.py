@@ -3,8 +3,10 @@ from typing import List
 from agent_graph.build_full_graph import build_graph
 from agent_graph.load_tools_config import LoadToolsConfig
 from agent_graph.tool_stories_rag import StoriesRAGTool
+from chatbot.load_config import LoadProjectConfig
 
 
+PROJECT_CFG = LoadProjectConfig()
 TOOLS_CFG = LoadToolsConfig()
 
 graph = build_graph()
@@ -46,18 +48,11 @@ class ChatBot:
         for event in events:
             response_content = event["messages"][-1].content
             event["messages"][-1].pretty_print()
-
+            
         # Update conversation with the new assistant message
         chatbot.append({"role": "assistant", "content": response_content})
 
         # Memory.write_chat_history_to_file(
         #     gradio_chatbot=chatbot, folder_path=PROJECT_CFG.memory_dir, thread_id=TOOLS_CFG.thread_id)
-        
-        rag_tool = StoriesRAGTool(
-            embedding_model=TOOLS_CFG.stories_rag_embedding_model,
-            vectordb_dir=TOOLS_CFG.stories_rag_vectordb_directory,
-            k=TOOLS_CFG.stories_rag_k,
-            collection_name=TOOLS_CFG.stories_rag_collection_name)
-        print("Number of vectors in vectordb:", rag_tool.vectordb._collection.count(), "\n\n")
         
         return response_content

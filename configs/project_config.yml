@@ -1,0 +1,6 @@
+langsmith:
+  tracing: "true"
+  project_name: "ravel-planner-rag"
+
+memory:
+  directory: memory

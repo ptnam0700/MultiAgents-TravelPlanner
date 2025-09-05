@@ -1,5 +1,14 @@
-travelenv/*
-__pycache__/*
-agents/__pycache__/*
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# data
+data/stories_vectordb
+
+# Virtual environments
+.venv
 .env
-travel_app_full_code.py
