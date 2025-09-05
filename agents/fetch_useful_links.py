@@ -3,8 +3,8 @@ from langchain_community.utilities import GoogleSerperAPIWrapper
 def fetch_useful_links(state):
     search = GoogleSerperAPIWrapper()
     destination = state['preferences'].get('destination', '')
-    month = state['preferences'].get('month', '')
-    query = f"Travel tips and guides for {destination} in {month}"
+    travel_dates = state['preferences'].get('travel_dates', '')
+    query = f"Travel tips and guides for {destination} {travel_dates}"
     try:
         search_results = search.results(query)
         organic_results = search_results.get("organic", [])
