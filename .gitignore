@@ -8,6 +8,7 @@ wheels/
 
 # data
 data/stories_vectordb
+data/vietnam_travel_vectordb
 
 # Virtual environments
 .venv
