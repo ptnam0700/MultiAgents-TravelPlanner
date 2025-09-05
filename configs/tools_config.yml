@@ -24,6 +24,17 @@ stories_rag:
   chunk_overlap: 100
   k: 3
 
+vietnam_travel_rag:
+  unstructured_docs: "data/unstructured_docs/vietnam_travel"
+  vectordb: "data/vietnam_travel_vectordb"
+  collection_name: vietnam-travel-rag-chroma
+  llm: gpt-4o-mini
+  llm_temperature: 0.3
+  embedding_model: text-embedding-3-small
+  chunk_size: 500
+  chunk_overlap: 100
+  k: 5
+
 langsmith:
   tracing: "true"
   project_name: "travel-planner-rag"

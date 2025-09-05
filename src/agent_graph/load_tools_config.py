@@ -40,6 +40,20 @@ class LoadToolsConfig:
         self.stories_rag_chunk_overlap = app_config["stories_rag"]["chunk_overlap"]
         self.stories_rag_collection_name = app_config["stories_rag"]["collection_name"]
 
+        # Vietnam Travel RAG configs
+        self.vietnam_travel_rag_llm = app_config["vietnam_travel_rag"]["llm"]
+        self.vietnam_travel_rag_llm_temperature = float(
+            app_config["vietnam_travel_rag"]["llm_temperature"])
+        self.vietnam_travel_rag_embedding_model = app_config["vietnam_travel_rag"]["embedding_model"]
+        self.vietnam_travel_rag_vectordb_directory = str(here(
+            app_config["vietnam_travel_rag"]["vectordb"]))
+        self.vietnam_travel_rag_unstructured_docs_directory = str(here(
+            app_config["vietnam_travel_rag"]["unstructured_docs"]))
+        self.vietnam_travel_rag_k = app_config["vietnam_travel_rag"]["k"]
+        self.vietnam_travel_rag_chunk_size = app_config["vietnam_travel_rag"]["chunk_size"]
+        self.vietnam_travel_rag_chunk_overlap = app_config["vietnam_travel_rag"]["chunk_overlap"]
+        self.vietnam_travel_rag_collection_name = app_config["vietnam_travel_rag"]["collection_name"]
+
         # Graph configs
         self.thread_id = str(
             app_config["graph_configs"]["thread_id"])

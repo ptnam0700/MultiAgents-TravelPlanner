@@ -5,6 +5,7 @@ from agent_graph.tool_tavily_search import load_tavily_search_tool
 from agent_graph.load_tools_config import LoadToolsConfig
 from agent_graph.agent_backend import State, BasicToolNode, route_tools, plot_agent_schema
 from agent_graph.tool_stories_rag import lookup_stories
+from agent_graph.tool_vietnam_travel_rag import lookup_vietnam_travel
 
 TOOLS_CFG = LoadToolsConfig()
 
@@ -54,7 +55,7 @@ def build_graph():
     search_tool = load_tavily_search_tool(TOOLS_CFG.tavily_search_max_results)
     tools = [
             search_tool,
-            lookup_stories
+            lookup_vietnam_travel
         ]
 
     # Tell the LLM which tools it can call
@@ -68,7 +69,7 @@ def build_graph():
     tool_node = BasicToolNode(
         tools=[
             search_tool,
-            lookup_stories
+            lookup_vietnam_travel
         ])
     graph_builder.add_node("tools", tool_node)
 

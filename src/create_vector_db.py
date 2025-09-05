@@ -2,7 +2,7 @@ import os
 import yaml
 from pyprojroot import here
 from langchain_chroma import Chroma
-from langchain_community.document_loaders import PyPDFLoader, UnstructuredWordDocumentLoader
+from langchain_community.document_loaders import PyPDFLoader, UnstructuredWordDocumentLoader, TextLoader
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from agent_graph.load_tools_config import LoadToolsConfig
@@ -90,7 +90,8 @@ class PrepareVectorDB:
             # Mapping file extension to its corresponding loader
             loaders = {
                 ".pdf": PyPDFLoader,
-                ".docx": UnstructuredWordDocumentLoader
+                ".docx": UnstructuredWordDocumentLoader,
+                ".txt": TextLoader
                 # Optionally add more extensions here
             }
             file_list = os.listdir(here(self.doc_dir))
@@ -152,13 +153,13 @@ if __name__ == "__main__":
 
     # prepare_db_instance.run()
 
-    # Uncomment the following configs to run for stories document
-    chunk_size = app_config["stories_rag"]["chunk_size"]
-    chunk_overlap = app_config["stories_rag"]["chunk_overlap"]
-    embedding_model = app_config["stories_rag"]["embedding_model"]
-    vectordb_dir = app_config["stories_rag"]["vectordb"]
-    collection_name = app_config["stories_rag"]["collection_name"]
-    doc_dir = app_config["stories_rag"]["unstructured_docs"]
+    # Uncomment the following configs to run for vietnam travel documents (food_culture.docx and hidden_gems.docx)
+    chunk_size = app_config["vietnam_travel_rag"]["chunk_size"]
+    chunk_overlap = app_config["vietnam_travel_rag"]["chunk_overlap"]
+    embedding_model = app_config["vietnam_travel_rag"]["embedding_model"]
+    vectordb_dir = app_config["vietnam_travel_rag"]["vectordb"]
+    collection_name = app_config["vietnam_travel_rag"]["collection_name"]
+    doc_dir = app_config["vietnam_travel_rag"]["unstructured_docs"]
 
     prepare_db_instance = PrepareVectorDB(
         doc_dir=doc_dir,
