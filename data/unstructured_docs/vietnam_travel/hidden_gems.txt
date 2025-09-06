@@ -1,61 +1,492 @@
+hidden_gems
+
+Quán cà phê hidden 
+No.	Tên	Vibe	Quận	Giá	Địa chỉ cụ thể	Note
+1	Góc cafe	Date chill, Ae chill	Ba Đình	35-50k/pax	1A3 Lạc Chính - Trúc Bạch - Ba Đình - Hà Nội	Được bật loa
+2	Này! cafe	Date chill, Ae chill	Ba Đình	40-60k/pax	57b P. Nguyễn Khắc Hiếu, Trúc Bạch, Ba Đình, Hà Nội	Được bật loa
+3	Bống cafe	Date chill, Ae chill	Ba Đình	30k/pax	104N1 P. Vĩnh Phúc, Vĩnh Phúc, Ba Đình, Hà Nội	Được bật loa, recently hơi family oriented
+4	An cafe	"Date đẹp, chụp ảnh", Date chill	Hoàn Kiếm	50-60k/pax	16 Phùng Hưng, phường Hàng Mã, quận Hoàn Kiếm, Hà Nội	Giới trẻ oriented
+5	An cafe	"Date đẹp, chụp ảnh", Date chill	HBT	50-60k/pax	133 Nguyễn Đình Chiểu, phường Lê Đại Hành, quận Hai Bà Trưng, Hà Nội	Giới trẻ oriented
+6	Lofi cafe (trà sữa)	Date chill	Ba Đình	50-60k/pax	101 P. Đào Tấn, Ngọc Khánh, Ba Đình, Hà Nội	Giới trẻ oriented
+7	Lobi cafe	"Date đẹp, chụp ảnh", Date chill	Long Biên	50-60k/pax	2 Đ. Ngọc Lâm, Ngọc Lâm, Long Biên, Hà Nội	Đồ tạm, không gian rộng
+8	Tâm cafe	Date chill, Ae chill	Long Biên	30-45k/pax	470 Ngọc Thuỵ, Gia Thượng, Long Biên, Hà Nội	Rẻ khỏe hợp lý
+9	Highlands đài truyền hình	Date chill	Đống Đa	45k+/pax	43 Đ. Nguyễn Chí Thanh, Giảng Võ, Đống Đa, Hà Nội	
+10	Aha NCT	Date chill, Ae chill	Ba Đình	40k+/pax	31 Đ. Nguyễn Chí Thanh, Ngọc Khánh, Ba Đình, Hà Nội	Tiện thì đi
+11	Phê La	"Date đẹp, chụp ảnh", Date chill	Ba Đình	50-70k/pax	2 P. Núi Trúc, Kim Mã, Ba Đình, Hà Nội	
+12	Phê La	"Date đẹp, chụp ảnh", Date chill	Ba Đình	50-70k/pax	19A P. Ngọc Hà, Đội Cấn, Ba Đình, Hà Nội	
+13	Lack Tack	"Date đẹp, chụp ảnh", Date chill	Ba Đình	50/pax	6 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội	
+14	Salt&Sweet	"Date đẹp, chụp ảnh", Date chill	Tây Hồ	50-70k/pax	76 Ngh. 105/2 Đ. Xuân La, Xuân Đỉnh, Tây Hồ, Hà Nội	
+15	C'Art Cafe	"Date đẹp, chụp ảnh", Date chill	Đống Đa	50-70k/pax	116 P. Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội	
+16	Xưởng cafe	Ae chill	Đống Đa	40-50k/pax	P. Hoàng Cầu, Chợ Dừa, Đống Đa, Hà Nội	Tiện thì đi
+17	How cafe	Date chill	Ba Đình	40-50k/pax	106 P. Trấn Vũ, Trúc Bạch, Ba Đình, Hà Nội	
+18	Gạt Tàn Cafe	Date chill, Ae chill	Ba Đình	30-50k/pax	114 P. Trấn Vũ, Trúc Bạch, Ba Đình, Hà Nội	
+19	Cà phê không?	Date chill	Ba Đình	40-50k/pax	55 P. Trúc Bạch, Trúc Bạch, Ba Đình, Hà Nội	
+20	"Wknd.cafe
+"	"Date đẹp, chụp ảnh", Date chill	Ba Đình	40-50k/pax	47 P. Trúc Bạch, Trúc Bạch, Ba Đình, Hà Nội	
+21	Cộng	Date chill, Ae chill	Ba Đình	40-50k/pax	15A P. Trúc Bạch, Trúc Bạch, Ba Đình, Hà Nội	
+22	Colonel Coffee	Date chill, Ae chill	Tây Hồ	30-40k/pax	124 P. Vũ Miên, Yên Phụ, Tây Hồ, Hà Nội	Bật nhạc, view hồ
+23	Bonjour Cafe	"Date đẹp, chụp ảnh"	Tây Hồ	60k+/pax	129 P. Nguyễn Đình Thi, Thuỵ Khuê, Tây Hồ, Hà Nội	
+24	Gạt Tàn Coffee
+	Date chill, Ae chill	Tây Hồ	30-50k/pax	2b Đ. Văn Cao, Thuỵ Khuê, Tây Hồ, Hà Nội	
+25	Aha HC	Date chill, Ae chill	Đống Đa	40k+/pax	97 P. Hoàng Cầu, Chợ Dừa, Đống Đa, Hà Nội	Tiện thì đi
+
+Nhà hàng ngon hà nội
+No.	Tên	Vibe	Quận	Giá	Địa chỉ cụ thể	Note
+1	Gent Steak	Date đẹp, chụp ảnh	Đống Đa	500k/pax	79 P. Hoàng Cầu, Chợ Dừa, Đống Đa, Hà Nội	
+2	Pizza 4P's	Date đẹp, chụp ảnh	Ba Đình	800k/2 pax	Lotte Center HàNội, 54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội	
+3	Pizza 4P's	Date đẹp, chụp ảnh	Ba Đình	800k/2 pax	5 P. Phan Kế Bính, Cống Vị, Ba Đình, Hà Nội	
+4	Pizza 4P's	Date đẹp, chụp ảnh	Hoàn Kiếm	800k/2 pax	43 Tràng Tiền, Hoàn Kiếm, Hà Nội	
+5	Pizza 4P's	Date đẹp, chụp ảnh	Tây Hồ	800k/2 pax	1A Đ. Âu Cơ, Quảng An, Tây Hồ, Hà Nội	
+6	Pizza Belga	Date đẹp, chụp ảnh	Tây Hồ	800k/2 pax	225 Đ. Âu Cơ, Quảng An, Tây Hồ, Hà Nội	
+7	Pizza Bella	Date chill	Ba Đình	700k/2 pax	45 P. Nguyễn Khắc Hiếu, Trúc Bạch, Ba Đình, Hà Nội	
+8	SunKat's Burgers
+	Date đẹp, chụp ảnh	Tây Hồ	700k/2 pax	172 P. Yên Phụ, Yên Phụ, Tây Hồ, Hà Nội	
+9	Hey Pelo	Date chill	Tây Hồ	400k/2 pax	32 Đ. Xuân Diệu, Quảng An, Tây Hồ, Hà Nội	
+10	Hey Pelo	Date chill	Ba Đình	400k/2 pax	59 P. Phan Kế Bính, Cống Vị, Ba Đình, Hà Nội	
+11	Bromigo	Date đẹp, chụp ảnh	Tây Hồ	800k/2 pax	81b Đ. Xuân Diệu, Quảng An, Tây Hồ, Hà Nội	thịt nướng
+12	Bao Wow	Date đẹp, chụp ảnh	Tây Hồ	700k/2 pax	No. 31a Alley, 12 P. Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội	bánh bao các thứ
+13	Gather Wellness Complex	Date đẹp, chụp ảnh	Tây Hồ	800k/2 pax	32 Ng. 12 Đ. Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội	cafe + đồ tây
+14	NYC Pizza
+	Date đẹp, chụp ảnh	Tây Hồ	800k/2 pax	21 Ng. 12 Đ. Đặng Thai Mai, Quảng An, Tây Hồ, Hà Nội	
+15	Union Pizza	Date đẹp, chụp ảnh	Thanh Xuân	700k/2 pax	17T4 P. Hoàng Đạo Thúy, Trung Hoà, Cầu Giấy, Hà Nội	chuỗi golden gate
+16	99cents Pizza
+	Date chill	Thanh Xuân	300k+/2 pax	17 T4, P. Hoàng Đạo Thúy, Trung Hoà, Cầu Giấy, Hà Nội	bánh lẻ theo miếng
+17	Bò Nướng Than Hoa - A Choén	Date chill, Ae chill	Ba Đình	600k/2 pax	281 P. Đội Cấn, Liễu Giai, Ba Đình, Hà Nội	nướng
+18	Bò Nướng Than Hoa - A Choén	Date chill, Ae chill	Đống Đa	600k/2 pax	108 P. Chùa Láng, Láng Thượng, Đống Đa, Hà Nội	nướng
+19	Lẩu Ếch 46
+	Date chill, Ae chill	Đống Đa	500k/2 pax	142 P. Nguyễn Văn Tuyết, Trung Liệt, Đống Đa, Hà Nội	
+20	Lẩu Ếch Hà My
+	Date chill, Ae chill	Ba Đình	500k/2 pax	70 Ng. 36 Giang Văn Minh, Đội Cấn, Ba Đình, Hà Nội	
+21	Lẩu Ếch Dũng Hà	Date chill, Ae chill	Long Biên	500k/2 pax	15 P. Long Biên 1, Ngọc Lâm, Long Biên, Hà Nội	
+22	Riêu Cây Si
+	Date chill, Ae chill	Ba Đình	500k/2 pax	36 P. Sơn Tây, Điện Biên, Ba Đình, Hà Nội	
+23	A Bản - Mountain Dew
+	Date chill, Ae chill	Ba Đình	700k-800k/2 pax	76 P. Trần Phú, Điện Biên, Ba Đình, Hà Nội	Món kiểu tây bắc
+24	Tokyo Tantanmen Restaurant
+	Date chill, Ae chill	Đống Đa	300-400k/2 pax	14 Ng. 34 P. Hoàng Cầu, Chợ Dừa, Đống Đa, Hà Nội	
+25	Tokyo Tantanmen Restaurant
+	Date chill, Ae chill	Ba Đình	300-400k/2 pax	38 Ng. 36 P. Đào Tấn, Cống Vị, Ba Đình, Hà Nội	
+26	Anh Béo Restaurant	Date chill, Ae chill	Cầu Giấy	300-400k/2 pax	131 Đ. Nguyễn Ngọc Vũ, Trung Hoà, Cầu Giấy, Hà Nội	đồ ăn kiểu hơi trung quốc
+27	Mỳ bò Đài Loan
+	Date chill, Ae chill	Đống Đa	300k/2 pax	53 P. Hoàng Cầu, Chợ Dừa, Đống Đa, Hà Nội	
+28	Quán Bò Nhúng Dấm 999
+	Date chill, Ae chill	HBT	600k/2 pax	48 P. Trần Xuân Soạn, Ngô Thì Nhậm, Hai Bà Trưng, Hà Nội	
+29	Bò nhúng dấm	Date chill, Ae chill	Ba Đình	600k/2 pax	dốc P. Hoè Nhai, Nguyễn Trung Trực, Ba Đình, Hà Nội	
+30	CHAO XIAN Lẩu Bò Triều Châu
+	"Date đẹp, chụp ảnh"	Ba Đình	900k/2 pax	44 Đ. Yên Phụ, Trúc Bạch, Ba Đình, Hà Nội	
+31	Vân Nầm Bò Nướng	Date chill, Ae chill	Ba Đình	500k/2 pax	200 Phó Đức Chính, Nguyễn Trung Trực, Ba Đình, Hà Nội	
+32	Quán Hải Sản Hương Lan Nghĩa Dũng
+	Date chill, Ae chill	Ba Đình	500k/2 pax	42/12, Nghĩa Dũng, Quận Tây Hồ, Phúc xá, Ba Đình, Hà Nội
+	
+33	Chân gà nướng	Date chill, Ae chill	Ba Đình	400k/2 pax	5a P. Lý Văn Phức, Cát Linh, Ba Đình, Hà Nội	cả dãy phố, gần như vào hàng nào cũng như nhau
+34	Nướng Hàng Mắm	Date chill, Ae chill	Hoàn Kiếm	400k/2 pax	Hàng Mắm, Hoàn Kiếm, Hà Nội	vỉa hè cơ bản
+35	7 Bridges	"Date đẹp, chụp ảnh"	Tây Hồ	600k/2 pax	104 Đ. Xuân Diệu, Quảng An, Tây Hồ, Hà Nội	
+36	Saint-Honoré Xuân Diệu
+	Date chill	Tây Hồ	300k/2 pax	5 Đ. Xuân Diệu, Quảng An, Tây Hồ, Hà Nội	bánh ngọt, ăn vui, nhìn tây tây
+37	Quinza	"Date đẹp, chụp ảnh", Date chill	Long Biên	700k/2 pax	15A Ngọc Thuỵ, Ngọc Thụy, Long Biên, Hà Nội	
+38	Nollowa chicken	"Date đẹp, chụp ảnh", Date chill	Tây Hồ	500k/2 pax	152 Đ. Thụy Khuê, Thuỵ Khuê, Tây Hồ, Hà Nội 	
+39	Nollowa chicken	"Date đẹp, chụp ảnh", Date chill	Hoàn Kiếm	500k/2 pax	15A Hàng Cót, Hàng Mã, Hoàn Kiếm, Hà Nội	
+40	Don Chicken
+	"Date đẹp, chụp ảnh", Date chill	Hoàn Kiếm	500k/2 pax	250 P. Hàng Bông, Cửa Nam, Hoàn Kiếm, Hà Nội	
+41	Lẩu hấp	Date chill, Ae chill	Hoàn Kiếm	500k+/2 pax	11a Phùng Hưng nhỏ, Hoàn Kiếm, Hà Nội	
+42	Lá Lốt Vietnamese Cuisine
+	"Date đẹp, chụp ảnh"	Hoàn Kiếm	700k/2 pax	61 P. Lương Ngọc Quyến, Hàng Buồm, Hoàn Kiếm, Hà Nội	
+43	La Libra Steak House
+	"Date đẹp, chụp ảnh"	Tây Hồ	900k+/2 pax	481 Đ. Lạc Long Quân, Xuân La, Tây Hồ, Hà Nội	
+44	Chibo Okonomiyaki
+	"Date đẹp, chụp ảnh"	Ba Đình	900k+/2 pax	No.5, 535 Kim Ma, Ngoc Khanh, Ba Dinh, Ha Noi, Hanoi, Vietnam	có thể gửi xe ở phạm huy thông (nếu bị cấm đường) rồi đi bộ vào (khoảng 3-5p đi bộ)
+45	Savvy Artisanal Restaurant
+	"Date đẹp, chụp ảnh"	Tây Hồ	700k+/2 pax	83 P. Trích Sài, Bưởi, Tây Hồ, Hà Nội	
+46	Garden Kitchen		HBT			
+	Tim Ho Wan (Dimsum)	"Date đẹp, chụp ảnh"	Ba Đình		Khách sạn LOTTE, 54 P. Liễu Giai, Cống Vị, Ba Đình, Hà Nội	
+
+
 Vietnam’s Hidden Gems: 12 Breathtaking Places off the Tourist Trail
- 
+
 Vietnam is my favourite place on earth, and that’s official! Although I have only travelled there once, I spent two of the best weeks of my life discovering its history, culture, food, and people.
- 
+
 As a first-time visitor to Vietnam, I planned an extensive two-week itinerary from the country’s north to its south. I chose the well-trodden tourist trail, travelling from Hanoi to Halong Bay, then on to Hue and Hoi An and finishing off at a beach resort in Da Nang.
- 
+
 My trip was marvellous, but it got me thinking: If I was so enamoured by the tourist route I had taken, what could I find if I stepped off the beaten track in Vietnam and headed into more remote and unknown territories?
- 
+
 Would I discover the “forgotten” Vietnam I had read about in guidebooks or stumble upon villages where I would be the observed rather than the observer?
- 
+
 With this in mind, I wanted to hear stories from fellow travellers who had found secret spots and non-touristy things to do in Vietnam and were happy to share them with my readers. I am sure you will agree that these twelve hidden gems must be included in your travel itinerary; I know a few will make it on mine!
- 
+
 This article may contain affiliate links – For more information, please read my disclaimer and privacy policy.
- 
+
 Mai Chau
-
 Mai Chau is one of Vietnam’s hidden gems in the north, about four hours from Hanoi. It’s a relatively unexplored place where genuine, off-the-beaten-path adventure can be found.
- 
+
 Mai Chau’s journey begins with a long, twisty bus ride along a steep cliff. Eventually, the route leads into a valley of rice paddies surrounded by green mountains. The trip is not for the faint of heart.
- 
+
 Mai Chau’s main attraction is the Chieu Cave, 1000 steps above the city. At the start of the hike, a local may or may not be there to charge an entrance fee.
- 
+
 One thousand steps may seem daunting, especially with Vietnam’s humidity, but the hike is well worth it. The views of the surrounding valley are incredible. The cave is secondary to the sights, but worth a peek!
- 
+
 Instead of a checklist of tourist activities, Mai Chau is more of a place to relax in a traditional homestay, and observe Vietnam’s nature while enjoying local food and hospitality. Scooters are available for rent and can be used to explore the surrounding rice paddies and mountains.
- 
+
 Mai Chau is also a perfect halfway point to visit the incredible Pu Luong Nature Reserve. It is only a few hours away by scooter but recommended only for experienced travellers and drivers.
- 
+
 Pu Luong
-
 Pu Luong Nature Reserve is a great off-the-beaten-track destination for trekking, mountain biking and homestays. It is a less touristy alternative to popular 2-day stays in Sapa or Mai Chau. The reserve is in Northern Vietnam’s Thanh Hoa Province. It is four hours southwest of Hanoi or three hours west of Ninh Binh by road.
- 
-The reserve encompasses two mountain ridges. The central valley features incredible rice terraces and small villages. These belong to families from the Thai and H’Mong ethnic minority communities.
- 
-Because Pu Luong is more remote and challenging to reach, tourism has developed here slowly.
- 
-When walking between villages or taking a multi-day trek deeper into the forest, it’s not uncommon to have the trail all to yourself.
- 
-Several mountain streams and cascades are inside the reserve, including the impressive Thac Hieu waterfall. A highlight is trekking to the top of Mount Pu Luong for a view of the valley.
- 
-Walking around the valley, you can admire Pu Luong’s iconic waterwheels. They are beautiful pieces of bamboo machinery built to carry water from low-lying streams into the rice paddies.
- 
-The valley offers many accommodations, from humble homestays to boutique bungalows. Pu Luong Retreat is the most popular.
- 
-The easiest way to reach Pu Luong is to hire a car and driver, which can be arranged through Daytrip.com. Alternatively, a daily bus from Hanoi to Pu Luong takes just over six hours.
- 
-Cat Ba National Park
 
+The reserve encompasses two mountain ridges. The central valley features incredible rice terraces and small villages. These belong to families from the Thai and H’Mong ethnic minority communities.
+
+Because Pu Luong is more remote and challenging to reach, tourism has developed here slowly.
+
+When walking between villages or taking a multi-day trek deeper into the forest, it’s not uncommon to have the trail all to yourself.
+
+Several mountain streams and cascades are inside the reserve, including the impressive Thac Hieu waterfall. A highlight is trekking to the top of Mount Pu Luong for a view of the valley.
+
+Walking around the valley, you can admire Pu Luong’s iconic waterwheels. They are beautiful pieces of bamboo machinery built to carry water from low-lying streams into the rice paddies.
+
+The valley offers many accommodations, from humble homestays to boutique bungalows. Pu Luong Retreat is the most popular.
+
+The easiest way to reach Pu Luong is to hire a car and driver, which can be arranged through Daytrip.com. Alternatively, a daily bus from Hanoi to Pu Luong takes just over six hours.
+
+Cat Ba National Park
 Located off the beaten track in Vietnam, Cat Ba National Park is recognised by Unesco as a World Biosphere Reserve. It is a national gem known for its wildlife and incredible natural beauty.
- 
+
 The national park on Cat Ba Island has the country’s most extensive mangrove system, lush jungles, and beautiful beaches. It is also home to the world’s most endangered species: the Vooc (white-faced monkey).
- 
+
 You can also find deer, squirrels, and monkey species in the jungle forests of Cat Ba National Park. In the surrounding waters, marine life is abundant.
- 
+
 One of the most popular activities at Cat Ba National Park is hiking up to the Ngu Lam Peak lookout. This viewpoint offers panoramic views of the park and its uniquely shaped mountains.
- 
+
 If you prefer to be by the water, you can lounge on Khu du lịch đảo Nam Cát public beach or go kayaking. Kayaking can be done on the open water or through the infamous mangroves.
- 
+
 There is a smattering of accommodation options all over the island, but the most popular place to stay is in Cat Ba Town. The main port is in Cat Ba Town, and plenty of hotels, tour operators and restaurants are nearby. A journey by bus from Hanoi will take around 4-5 hours.
 
- 
+Tam Coc – Ninh Binh
+The stunning region of Ninh Binh is located just 2.5 hours south of Hanoi. Referred to as “Halong Bay on land,” it features massive limestone cliffs towering over bright green rice paddies. While some tourists visit Ninh Binh as a day trip from Hanoi, very few spend enough time truly appreciating the area.
+
+The most popular place to stay in Ninh Binh is the little town of Tam Coc. Life moves a bit more slowly, and the locals are some of the friendliest in Vietnam. Most people lead simple lives that involve harvesting rice or running quaint, inexpensive guesthouses.
+
+One of the best things to do in Ninh Binh is to take a rowboat ride on the river in Tam Coc. You’ll pass amongst the towering limestone cliffs and follow the river underground through caves to secret lagoons. And you’ll find that many locals who operate the tour boats row with their feet – which looks incredibly challenging to master.
+
+The Unmissable Attractions in Ninh Binh
+Other things to do around Tam Coc are to climb the 500 steps to the massive dragon statue at the top of Mua Caves and visit the serene Bich Dong Pagoda.  Or rent a motorbike and cruise the winding dirt roads of Ninh Binh – getting lost among the vibrant rice paddies. You’ll only have to share the route with a few other bikes and friendly water buffaloes.
+
+The region of Ninh Binh is easy to get to from Hanoi. Just take the daily 2.5-hour shuttle bus that will drop you in the heart of Tam Coc. If you’re looking for a home away from home, the Tam Coc Sunshine Homestay is run by the sweetest family and set at the base of a massive cliff.
+
+You’ll find plenty to do in Ninh Binh to keep you busy for at least three days. You may find yourself staying quite a bit longer once you have settled into the slow, relaxed pace of Vietnamese life in the countryside.
+
+Ha Giang
+The northernmost Vietnamese province – Ha Giang – offers visitors an incomparable insight into rural Vietnam off the tourist trail.
+
+The most prominent location in the province is Ha Giang, lying 280km north of Hanoi. Buses regularly run to Ha Giang from Hanoi and take around 6 hours. Alternatively, the guided three-day Ha Giang Motorbike Loop is a popular tourist activity.
+
+On the first day, you ride from Ha Giang to Dong Van, stopping at a viewpoint and the Lung Khuy Cave in Quan Ba on the route. Tackle the windy Tham Ma Pass to the Chinese border, where you find the Lung Cu Flagpole – Vietnam’s northernmost point.
+
+Day two takes you to Meo Vac, a route encompassing Vietnam’s most beautiful road, the Ma Pi Leng Pass. The ”skywalk” is considered the country’s most dangerous road. Either ride or walk along here before climbing to the incredible viewpoint!
+
+From Meo Vac, you take the M Pass to Du Gia to spend your final night before returning to Ha Giang the following day. 
+
+The journey is a must for any Vietnam backpacker wanting to experience one of the country’s hidden gems. The scenery and remote villages are like nowhere else in Vietnam, making it a unique and unforgettable experience.
+
+Phong Nha – Ke Bang
+Located in the middle of Vietnam, Phong Nha-Ke Bang National Park is a treasure trove of sights to see. Reaching this destination can be tricky, allowing Phong Nha-Ke Bang to remain away from the tourist trail.
+
+There are a few ways to get to the park, such as by train or sleeper buses. The latter is the perfect option for anyone staying on a budget in Hanoi or Ho Chi Minh City and wanting an affordable way to move around the country.
+
+Phong Nha-Ke Bang is more than 800 square km of what seems like a paradise hidden in the middle of the country. It has a wealth of rivers, caves, jungles, small villages, and mind-blowing natural wonders.
+
+These wonders include the world’s biggest cave, the Unesco-listed Hang Son Doong, one of many unique places to visit in Vietnam.
+
+Exploring the beauty of Phong Nha – Ke Bang
+While getting into Hang Son Doong might be a real challenge, exploring the Botanical Garden and the Thac Gio Waterfall is a task that even a non-experienced hiker can manage.
+
+The route starts in Phong Nha village, which has several affordable hotels. From here, it is a short bike ride to the beginning of the trail through the tropical forest.
+
+The trail is free and easy to navigate. This two-hour hike’s list of noteworthy stops includes an animal rehabilitation enclosure, century-old trees, and a scenic waterfall, Thac Gio. The waterfall is 30 meters high and gorgeous.
+
+Phong Nha-Ke Bang is well worth a two, or even three-day stay. This time scale allows you to explore the Paradise and Dark Caves and take a scenic bike ride around the park.
+
+Bai Tu Long Bay
+Halong Bay was once the magical setting where visitors flocked to cruise pristine waters and navigate limestone monoliths.
+
+That was then, but now, travellers have discovered the more remote area of Bai Tu Long Bay. This destination offers visitors a more authentic experience away from the tourist trail.
+
+Only a few cruise companies have permits to sail the waters of Bai Tu Long Bay; therefore, mass tourism has yet to infiltrate its idyllic position. Enjoy your 3-day Bai Tu Long Bay Cruise on the South China Sea with activities such as kayaking, visiting caves, fishing and beach BBQs.
+
+Visiting the floating fishing villages is a highlight of cruising Bai Tu Long Bay’s waters. 99% of the residents have never stepped foot on land, an incredible feat in the 21st century. Tours from the boat include visiting a floating pearl farm to witness local life and business first-hand. 
+
+Bai Tu Long Bay remains one of the highlights of a trip to Vietnam, but it is gaining popularity, so make sure you visit before it’s too late!
+
+Quy Nhon
+Quy Nhon (also sometimes spelt Qui Nhon) is a small coastal city in Central/South Vietnam typically overlooked by travellers following the usual Vietnam trail. However, Quy Nhon’s area has numerous ancient Cham temples and quiet, unspoiled beaches, making it one of Vietnam’s hidden gems, where it is highly worth staying for a few nights.
+
+The city is situated roughly midway between the charming heritage town of Hoi An and the brash commercial seaside resort of Nha Trang. It’s connected to Vietnam’s north-south railway line at the nearby town of Diêu Trì, so it’s straightforward to stop there along the way.
+
+While it’s off the beaten track, the city of Quy Nhon and several nearby beaches have a good range of accommodations, including small-scale guesthouses/hotels and several backpacker hostels.
+
+Beach life near Quy Nhon
+If you want to stay on a beach near a local fishing village with no large-scale tourism development, consider staying at the lovely Nhon Hai beach (about 30 minutes from the centre of Quy Nhon).
+
+Seaside Boutique Resort is the best spot to stay, offering private rooms and a friendly traveller atmosphere. A short taxi ride from Quy Nhon is also Bai Xep Beach, which is entirely uncrowded compared to the beaches you’ll find at Hoi An, making it one of Vietnam’s hidden gems.
+
+The city beach of Quy Nhon is also worth visiting. It’s spotlessly clean and shielded from currents by a nearby peninsula.
+
+Besides the beaches, Quy Nhon offers a chance to see the ancient Champa civilisation ruins, including temple ruins and remains of the ancient citadel of its one-time capital. Meanwhile, the city is blissfully not touristy, allowing the curious traveller to visit authentic local markets and restaurants.
+
+Da Lat
+Dalat is a hidden gem in the south of Vietnam. Its location in the Central Highlands means it has cooler temperatures, so it is a popular choice for travellers looking to escape the heat and discover a less-visited destination.
+
+You can take a long-distance bus from Ho Chi Minh City to get there. The journey will take about 7 hours, so it’s recommended that you book a sleeper bus to get a bed. Dalat has an airport for those who prefer to fly, with an airport shuttle transporting you to the city centre.
+
+Dalat is a popular destination among thrill-seekers, offering the opportunity to go abseiling down waterfalls.
+
+For those interested in architecture, the “Crazy House” cannot be missed. This bizarre building is a hotel; if you book far enough in advance, you can stay in one of the rooms.
+
+You’re spoilt for choice regarding nature, with multiple lakes nearby, including one in the centre of town, which is a great spot to watch the sunset.
+
+One of the local groups of people is known as K’Ho. Their Gong show must not be missed! It’s a fun experience with traditional dances; the audience is encouraged to join in some of them!
+
+Dalat is an accessible location for the Vietnamese, so there are various accommodation options, no matter your budget.
+
+Dong Hoi
+Dong Hoi is still off the tourist radar and is a great “off the beaten track” city in Northern Vietnam.
+
+It is the capital of the Quang Binh Province. Exploring by motorbike is a great way to get to all the city sites, taking an organised tour or a taxi are other transport options. The main attractions are the nearby beaches and caves, and the tunnel network created in the Demilitarized Zone (DMZ) is a popular full-day excursion.
+
+Dong Hoi is a riverside town close to the beach. The beautiful white, sandy Nhat Le Beach is a 12km long beach located only about 20 minutes walk from the city centre; care should be taken with currents when swimming.
+
+The massive Paradise Cave (Dong Thien Duong), 70 km northwest of town, is an unreal site decorated with thousands of stalactites and stalagmites. 
+
+The Phong Na Cave, located 45 km northwest of Dong Hoi, is one of Vietnam’s most beautiful locations. The cave is about 55 km long, but visitors can only access the first few kilometres.
+
+Vinh Moc is a tunnel complex in Quảng Tri and a spectacular historical site. A day tour from Hue to Vinh Moc is a popular activity.
+
+The United States Military dropped more than 9000 bombs in the area. The villagers built a complete underground village by digging a system of caves 30m underground; it is incredible to see.
+
+The tunnel complex is about a one-and-a-half-hour drive by motorbike from Dong Hoi, and many travellers and tours continue to Dong Ha or Hue from the Vinh Moc tunnels. 
+
+Vĩnh Hy
+On Vietnam’s south-central coast is a Vietnam hidden gem that will charm you with its untouched beauty – that place is Vĩnh Hy. Nestled in Ninh Thuan Province, this coastal gem is famous for its clear waters, unspoiled coral reefs, and cliffs that hug the bay.
+
+The best time to visit Vĩnh Hy is during the dry season, from January to August when the weather is pleasant, and the waters are calm. Nature lovers and those seeking a beach retreat will love Vĩnh Hy.
+
+The bay is part of Nui Chua National Park, with a mix of coastal and forest landscapes perfect for trekking and exploring. You can hop on a local boat to discover hidden beaches, snorkel in the coral reefs full of marine life or just relax on the white sandy beach surrounded by towering cliffs and emerald waters.
+
+For culture enthusiasts, Vĩnh Hy is an interesting place to visit to discover the culture of the Cham ethnic minority. The Cham are known in Vietnam for their local traditions and handicrafts. They provide a fascinating insight into their history and customs, plus there is always the chance to taste traditional Cham cuisine.
+
+While Vĩnh Hy is slowly gaining interest among travellers, it retains its air of mysticism, allowing it to remain one of Vietnam’s hidden gems. It’s only a matter of time before it is discovered by the masses, so make sure you get there first to enjoy these quiet and unspoilt lands.
+
+Mu Cang Chai
+Mu Cang Chai is a peaceful retreat for travellers hidden in the mountains of northern Vietnam. Unlike Sapa, Mu Cang Chai is not too touristy, so you can fully immerse yourself in the local culture and landscape.
+
+The main attraction of Mu Cang Chai is its rice terraces, which have been carved into the mountainsides by the Hmong ethnic minority over centuries. The sight of these terraces rolling down the hills is beautiful and perfect for photographers and nature lovers in all seasons.
+
+From May to June, experiencing the lush green of the growing rice crops is stunning. Between September and October, visitors are rewarded with a beautiful golden colour carpeting the terraces as the rice approaches its optimal harvesting stage.
+
+Beyond the terraces, Mu Cang Chai offers travellers the opportunity to discover local communities, especially the Hmong people, known for their colourful culture and traditional handcrated textiles in bright colours and intricate designs. Homestays are available if you want to experience their daily life, taste their authentic food, and learn about their customs and traditions.
+
+Compared to Sapa, Mu Cang Chai is more authentic and hasn’t been impacted by an influx of tourism – it maintains Vietnam’s rural life and natural beauty. Mu Cang Chai is the perfect destination for those who want to escape the hustle and bustle of the big cities and connect more with nature and local culture. Whether you explore its rice fields, hike with a local guide, or just relax in its peaceful surroundings, Mu Cang Chai is one of the Vietnam hidden gems you won’t want to miss.
+
+Conclusion
+Vietnam’s hidden gems are sensational and will appeal to every individual. Whether you are searching for an adventure, relaxation at a luxury yoga retreat, or want to explore Vietnam at a slower pace, there is something to suit all tastes.
+
+I hope this post has inspired you to discover what else is available away from Vietnam’s well-beaten track!
+
+Sometimes in travel, it only takes a small push – one more hour on the road, one slightly out-of-the-way booking – to win an invaluable reward. For every heavily Instagrammed tourist attraction in Vietnam, there’s an alternative just as beautiful that remains undiscovered.
+With only a handful of adventurous tourists like you visiting these locations, you can look forward to enhanced contact with the community, and reduced harm to the environment. Your well-spent dollar also helps to lessen the inequality of tourism income between communities in hotspots and those far-flung places.
+Ready to explore? Here's list of eight outstanding, lesser-known places to help you find the best of Vietnam, beyond the beaten path. 
+
+Rugged landscapes, breathtaking motorcycle rides and encounters with ethnic minorities are a few of the reasons many travellers love their time in Northern Vietnam. Cao Bằng is the last town at the country’s northernmost tip, and the jump-off point to the largest waterfall in Southeast Asia. Spend an afternoon touring Cao Bằng town, sampling local delicacies and strolling along the riverside, before taking on the area’s natural and historical wonders: mysterious Ngườm Ngao Cave, the enchanting Thang Hen Lake System, the former hideout of Hồ Chí Minh, and of course, the epic Bản Giốc Waterfall. 
+
+So firmly off the beaten path, you may be surprised to hear it exists at all, Đắk Lắk is the largest coffee-growing region in Vietnam. Beyond coffee though, Đắk Lắk has managed to preserve the culture of ethnic minorities such as the M’nong and the Ede, who still live in remote hamlets much the same way they have for centuries. Spend a day or two hunting down cool cafés and checking out the museums at Buôn Ma Thuột, or head straight to Lắk Lake for a few nights in a tented camp along the water’s edge. Tours in Đắk Lắk normally cover the region’s impressive waterfalls and coffee plantations, however, if you want to see elephants, the best place to do so is at Yok Đôn National Park, where you can sign up for Vietnam’s first ethical elephant tour.
+
+Claiming a quiet strip of coast in Central Vietnam, Quy Nhơn has managed to keep much of its seaside charm intact. Along the shoreline, a handful of small hotels and one or two high-end resorts welcome travellers. Quy Nhơn is home to countless fishermen, whose boats bob in the waves during the day, and light up the horizon at night. The beaches here are generally empty and you’ll even find quiet bays ideal for camping. If you have time to spare, hop on a motorbike to explore nearby Chàm ruins, check yourself in for a spa day at AVANI, or plot an excursion to Kỳ Co fishing village to enjoy its small but beautiful stretch of turquoise beach. 
+
+Until the surprise discovery of one of the world’s largest caves, Phong Nha was barely mentioned in guidebooks. Since Sơn Đoòng stole the spotlight, Phong Nha has received a steady stream of adventure seekers; however for the most part, the town and surrounding area is still peaceful and wonderfully unspoiled. Tidy farmstays have set up bungalows between the rice fields and vegetable plots, and family-run hostels trade in bamboo huts and swimming pools with a view. Beyond exploring Phong Nha’s caves by boat and on foot, you can go deeper into nature with cycling excursions, kayaking tours, and wildlife spotting in the national park.
+
+
+One of Vietnam’s most welcoming and colourful regions, the Mekong Delta still stumps travellers with its size and lack of hand-holding tourist services. On the flipside, this makes it a fantastic destination for intrepid travellers, especially those willing to explore on two wheels. Start your trip in Cái Bè, a small riverside town scattered with lush islets. Spend a few days in a local homestay, eating fresh fruit and river fish, and cycling through farms and orchards, before heading on to Sa Đéc. Sa Đéc’s elegant, colonial-era villas, bustling riverfront markets and delicious noodle soups make it an easy place to wile away a day or two. When you’re ready, push on to Châu Đốc, where you’ll want to wake up early to experience the floating market and tour an intriguing mix of temples and pagodas belonging to the ethnic minorities that have settled the area.   
+
+A short, scenic flight away from the hustle of Ho Chi Minh City, the Côn Đảo archipelago forms a beautiful series of 15 islands, most still covered with lush jungle and rimmed with empty coastline. Côn Đảo is remote enough that is was used to hold prisoners during both the French and American regimes. Today, travellers who make it to Côn Đảo are enchanted by the lack of development and the wild, windswept quality of the islands, home to national parks and coral reefs. Spend your days motorbiking along the coastal roads, exploring quaint cafes and dining on seafood in the small town, and strolling the island’s long, sandy beaches. 
+
+The name Ba Bể means ‘three lakes’ in the language of the ethnic Tay, who have settled this thickly forested area in the north of Vietnam. Ba Bể National Park is home to the largest natural lake in Vietnam, covering eight square kilometres. Stays here naturally involve life along the water, with fishing, walking, and boating, all part of an easy-going itinerary. Book a homestay along the water’s edge, where you can unwind with long hours in a hammock, or go paddling at sunrise. Save time on your trip to visit Cẩm Hà village – where the ethnic Tày minority live much the way they have for decades – and to explore An Mạ Pagoda and Hang Puông Cave. 
+
+Looking for lush rice terraces, ethnic encounters, and cosy homestays? Pù Luông  opens a wonderful window into rural life in Vietnam’s ethnic communities. Only four hours from Hanoi, this nature reserve is packed with rice paddies, cliffs and waterfalls, and sees only a handful of tourists compared with its neighbours. Pù Luông’s farming hamlets and gently sloping valleys are perfect for exploring on foot. Book a homestay with a view, and spend your days trekking to swimming holes at Thác Hiêu Waterfall, getting to know the ethnic minorities, and dining on farm-grown cuisine. 
+
+Vietnam (full Vietnam teaching overview here) is a country full of surprises, with hidden gems tucked away beyond the well-trodden tourist path. Newcomers to this vibrant land can be awestruck, surrounded by incredible terrain, diverse culture, and rich history. If you’re someone who has been captivated by the beauty of Vietnam but is looking around for off-the-beaten-path adventures, then you’re in the right place!
+
+In this blog post, we want to share with you a few destinations and experiences that aren’t always on the beaten tourist trail. Here are some of the lesser-known gems that you are not going to want to miss during your visit to Vietnam:
+
+Ban Gioc Waterfall: Tucked away in the northeastern region of the country, this waterfall is the biggest in Vietnam and borders China. The waterfall is surrounded by beautiful rice fields and karst formations, providing stunning views for someone looking for nature’s retreat.
+
+Bai Xep: Nestled on Vietnam’s central coast is this charming fishing village. Bai Xep is perfect for those who want to escape the more crowded beaches while still enjoying some breathtaking surroundings and freshly caught seafood.
+
+Phong Nha-Ke Bang National Park: This UNESCO World Heritage Site is a hidden gem that features incredible caves, grottoes, and underground rivers that are just waiting to be explored.
+
+Dalat’s Art Deco buildings: While Dalat has recently become a hot destination for visitors in recent years, many miss the historical gems of the Art Deco style architecture scattered around the city. It makes for a unique experience, and the photographs are fantastic!
+
+Ha Giang Loop: Perfect for adventurous bikers, this 370km route in the northern mountain region of Vietnam is breathtakingly beautiful, and the view from the top of its winding roads is unparalleled.
+
+As a newcomer in Vietnam, you’re most likely to get caught up with the typical tourist spots, but don’t limit yourself to only those places. Get out there and discover the hidden gems in this incredible country. From cascading waterfalls to charming villages, Vietnam has so much to offer beyond the typical tourist locations. Teaching abroad in Vietnam comes with plenty of downtown on days off and holidays, and therefore lots of opportunities for travelling and checking out the best Vietnam has to offer.
+
+The rewards of explore hidden gems of Vietnam
+Imagine yourself sharing laughter and stories with a local family as you learn the secrets of making Bánh Cuốn, or cycling through the serene countryside of Pu Luong. The rewards of exploring hidden gems are immeasurable.
+
+You’ll encounter genuine smiles, authentic local experiences, and create memories that truly stand out. By venturing off the beaten path, you’ll gain a deeper understanding of Vietnamese culture, support local communities, and discover hidden gems that most tourists miss. It’s a journey of discovery that will enrich your travel experience and leave you with a profound appreciation for the beauty and diversity of Vietnam.
+
+What makes a hidden gem
+For Prime Travel, a hidden gem is more than just an off-the-beaten-path destination; it’s an experience that goes beyond the typical tourist itinerary.
+
+Here’s what defines a hidden gem for us:
+
+Local Experiences: It offers a genuine and authentic glimpse into the local culture and way of life. This could be through homestays, interacting with locals, or experiencing local traditions firsthand.
+Sustainability: It prioritizes responsible tourism practices that minimize environmental impact and benefit the local community.
+Unique and Unforgettable: It offers a truly unique and memorable experience, something you won’t find in a typical guidebook.
+Off the Beaten Path (but Accessible): It’s not overcrowded or overly commercialized, yet still relatively accessible for travelers.
+We believe in curating travel experiences that go beyond the ordinary. Our goal is to connect travelers with these hidden gems, fostering meaningful connections with local communities and creating unforgettable memories.
+
+Top 10 hidden gems of Vietnam
+Check out this top 10 hidden gems in Vietnam, from the unique local experiences in Thanh Tri near Hanoi to the Pu Luong, we’ll guide you off the beaten path and towards unforgettable encounters.
+
+Hanoi is more than just the Old Quarter and French Quarter. Nestled just outside of Hanoi lies Thanh Trì, a village offering a glimpse into authentic local life. This hidden gem is renowned for its long-standing tradition of crafting “Bánh Cuốn” – Vietnamese steamed rice rolls.
+
+As a local, the flavor of Thanh Trì bánh cuốn is not only delicious but also evokes warm childhood memories, associated with family breakfasts and the familiar street vendors of Hanoi.
+
+Local artisans have been perfecting this skill for generations, passing down their techniques from mother to daughter. By visiting Thanh Trì, you can witness firsthand the intricate process of making bánh cuốn, from grinding the rice to shaping the delicate rolls.
+
+Learn the Art of Bánh Cuốn Making: Join a local family and learn how to make this iconic Vietnamese street food from scratch. You’ll get to grind the rice, shape the batter, and fill the rolls with delicious fillings.
+Enjoy a Home-Cooked Meal: Share a meal with a local family and savor authentic Vietnamese cuisine and learn about their daily lives.
+
+Ha Long Bay is undeniably stunning, but its popularity has put a strain on the environment. To explore this wonder responsibly and off the beaten path, consider exploring beyond the typical tourist routes and delve into a much larger, but less visited corner of the gulf called Bai Tu Long Bay.
+
+Among top hidden gems of Vietnam, Bai Tu Long Bay offers a glimpse into the true essence of this breathtaking landscape. Here, you can discover hidden gems like impressive karst mountains, pristine beaches, and traditional fishing villages, all while enjoying a more peaceful and intimate experience.
+
+Seeking an off the beaten path alternative to the popular Trang An and Tam Coc? Consider Van Long Nature Reserve. While Trang An and Tam Coc are renowned for their dramatic limestone cliffs and cave systems, this less touristy destination offers an unique experience with its diverse ecological system. Van Long boasts a variety of bird species including herons, swamphens, bitterns, geese, ducks, and even eagles. Notably, Van Long is the only home of the endangered Delacour’s langur, a small, black and white monkey.
+
+Van Long provides a more serene and peaceful experience with its high, almost vertical limestone karsts, expansive reed beds and a slower pace of life. Plus, enjoy a more peaceful experience with minimal vendor intrusion and no aggressive tipping requests like in Tam Coc.
+
+Escape the crowds of Sapa and discover the authentic charm of Pu Luong Nature Reserve. As one of Northern Vietnam’s hidden gems, Pu Luong is home to charming villages inhabited by the Thai people, an ethnic minority group with distinct traditions and a rich cultural heritage. Stay in a traditional stilt house with a Thai family for a unique opportunity to experience their way of life, learn about their rice farming practices, and immerse yourself in their warm hospitality.
+
+Explore breathtaking landscapes with treks through lush forests, emerald rice paddies, and impressive limestone formations. For a more adventurous experience, consider cycling or even venturing further afield on a motorbike (either riding yourself or as a pillion passenger).
+
+Escape the bustling crowds of Hoi An and delve into the authentic charm of the surrounding countryside. Experience the vibrant life of a bustling fishing village, where you can learn the art of basket boat making, hop aboard these unique vessels, and meet locals crafting traditional fishing nets.
+
+Immerse yourself in the local culture by visiting a fish sauce maker. “Nước mắm” is a cornerstone of Vietnamese cuisine, and this experience offers a fascinating glimpse into its production.
+
+Explore the picturesque countryside in Tra Que Village, where you can witness traditional farming methods and perhaps even try your hand at vegetable gardening. These local experiences will provide a deeper understanding of Hoi An and its surrounding communities.
+
+While popular tourist destinations like Da Lat and Hoi An are captivating, Dak Lak in the Central Highlands remains a relatively undiscovered gem. This region offers a unique blend of stunning natural beauty, rich cultural experiences, and a more authentic travel experience.
+
+Explore the lush rainforests, cascading waterfalls, and serene lakes of Dak Lak. Immerse yourself in the vibrant culture of the indigenous people, witness traditional ceremonies, and savor the rich flavors of local coffee.
+
+Dak Lak offers a chance to escape the crowds and connect with the true essence of Vietnam.
+
+While Can Tho is renowned for the Cai Rang Floating Market, consider venturing to Son Islet for a truly unique and authentic local experiences. This idyllic island is famous for its lush tropical fruit orchards, where nearly every household cultivates seasonal delights like guavas, mangoes, longans, and durians. You can even participate in a fruit-picking experience, exploring the orchards with local families and enjoying fresh fruit right from the source.
+
+Son Islet also boasts a vibrant fishing community. Explore the island’s numerous fish farms, where locals practice traditional aquaculture methods. For a truly memorable dining experience, try the “flying menu.” This unique concept allows you to sample a diverse array of local specialties, with each participating household contributing a signature dish. Plus, consider staying in a homestay for a deeper local immersion into island life.
+
+Located in Chau Doc, a gateway to famous attractions like Sam Mountain and Tra Su Cajuput Forest, Da Phuoc is a unique Muslim Cham village situated 4km away along the Hau River. Established around 120 years ago, Da Phuoc plays a significant role in the local Cham community, boasting grand mosques like Masjid Al Ehsan and Jamius Sunnah. Explore the village’s rich weaving traditions and savor local delicacies like tung lo mo and curry.
+
+Da Phuoc is particularly enchanting during the flood season. Stilt houses connected by winding wooden bridges create a picturesque scene, making it an ideal destination for scenic boat tours along the river.
+
+Located about 150km from Ho Chi Minh City, Nam Cat Tien National Park is one of hidden gems for nature lovers. This vast protected area, spanning nearly 74,000 hectares, boasts a remarkable biodiversity.
+
+Home to over fifty endangered species, including the Siamese Crocodile and the critically endangered Indochina Tiger, Nam Cat Tien is a haven for wildlife. The park is renowned for its diverse birdlife, with over three hundred species observed, and is also home to 62 types of orchids.
+
+Explore the park’s well-maintained trails, offering excellent opportunities to observe a wide range of flora and fauna. While deeper areas are reserved for rarer species, these trails provide a safe and enriching experience for visitors.
+
+As one of Vietnam’s hidden gems, Con Dao offers a compelling alternative to the increasingly developed Phu Quoc. Both islands boast beautiful beaches, lush jungles, delicious seafood, and opportunities for watersports and outdoor activities, with convenient transportation links to the mainland. However, Phu Quoc has experienced significant development, leading to environmental concerns.
+
+Con Dao, in contrast, boasts one of the best-protected natural environments in Vietnam, with a focus on sustainable tourism. Development has been more restrained, primarily featuring low-rise buildings. Generally, Con Dao offers a more tranquil experience with a focus on historical sites, natural attractions, and a slower pace of life.
+
+Tips for explore hidden gems
+Eat locally
+One of the best ways to experience a destination’s true essence is through its cuisine. When exploring hidden gems in Vietnam, embrace the local flavors. Venture beyond tourist restaurants and discover authentic eateries frequented by locals. Sample street food from local vendors, try regional specialties at family-run restaurants, and don’t be afraid to step outside your comfort zone. Eating locally not only allows you to savor delicious food but also supports the local economy and fosters cultural exchange.Stay at local homestay
+
+Community-based projects are popping up across Vietnam to offer tourists authentic cultural experiences. For an immersive and authentic experience, consider staying in a local homestay. This allows you to experience daily life firsthand, interact with the local community, and gain valuable insights into Vietnamese culture. Homestays often offer a more sustainable and eco-friendly option compared to large hotels, while also supporting local families and their livelihoods.
+
+Respect local customs and traditions
+Respecting local customs and traditions is crucial when exploring hidden gems in Vietnam. Dress modestly when visiting religious sites, learn a few basic Vietnamese phrases, and always ask for permission before taking photos of people. Be mindful of your behavior and avoid making noise or disturbing the peace in quiet areas. By respecting local customs, you can foster positive interactions with the community and contribute to a more meaningful travel experience.
+
+Choose to explore by foot, bicycle
+To truly discover hidden gems, choose to explore by foot, bicycle. These modes of transport allow you to immerse yourself in the local environment, interact with the community, and stumble upon unexpected discoveries. You’ll encounter hidden alleyways, charming villages, and breathtaking scenery that would be missed from the window of a car. Embrace a slower pace of travel and discover the true essence of Vietnam.
+
+Highly recommend Vietnam tours in July
+
+5 Underrated & Must Visit Places for the explorer in you.
+
+My favorite place on earth is Vietnam, and that’s not even up for debate. I have only been there five times, but I spent some of the best weeks of my life there discovering its history, culture, food, and people. For the 1st time, I chose the well-trodden tourist trail for my first trip to Vietnam, heading from Hanoi to Halong Bay, then on to Hoi An, then Da Nang, and finishing off in Ho Chi Minh. 
+
+My trip was marvelous, but it got me thinking that if I was so enamored by the tourist route I had taken, what could I find if I stepped off the beaten track in Vietnam and headed into more remote and unknown territories? Would I discover the “forgotten” Vietnam I had read about in guidebooks or stumble upon villages where I would be observed? 
+
+I wanted to hear stories from travelers who had experienced these hidden gems in Vietnam to find out where these places were. The travelers who took long, arduous bus rides to stay in traditional bamboo huts or witness animals on the verge of extinction. 
+
+Taking all this into consideration, I traveled to Vietnam on several subsequent trips in search of the undiscovered, and I believe you will agree that some of Vietnam’s hidden gems deserve your attention after reading this. 
+
+Mai Chau 
+
+
+Located about 4 hours north of Hanoi, Mai Chau is one of Vietnam’s hidden gems. This is a place where you can experience true, off-the-beaten-path adventure.
+
+Mai Chau’s journey begins with a long, twisty bus ride along a cliff that eventually leads into a valley of rice paddies surrounded by green mountains. The trip is not for the faint-hearted.
+
+Mai Chau’s main attraction is the Chieu Cave, 1000 steps above the city. A local may or may not be there to charge an entrance fee at the start of the hike, which shows a bit of the town’s character. One thousand steps may seem daunting, especially with the humidity of Vietnam, but the hike is well worth it for the incredible views of the surrounding valley. The cave is secondary to the sights but worth a peek! Instead of a checklist of tourist activities, Mai Chau is more of a place to relax and observe Vietnam’s nature while enjoying local food and hospitality. Scooters are available for rent and can be used to explore the surrounding rice paddies and mountains. 
+
+Tam Coc – Ninh Binh 
+
+
+Ninh Binh is a stunning region located just 2.5 hours south of Hanoi. The region is known as the “Halong Bay on land,” with massive limestone cliffs towering over bright green rice paddies. Many tourists visit Ninh Binh as a day trip from Hanoi, but very few spend enough time exploring the area. 
+
+The most popular place to stay in Ninh Binh is the little town of Tam Coc. Life moves a bit more slowly, and the locals are some of the friendliest in Vietnam. Most people lead simple lives that involve harvesting rice or running quaint, inexpensive guesthouses. 
+
+One of the best things to do in Ninh Binh is to take a rowboat ride on the river in Tam Coc. You’ll pass amongst the towering limestone cliffs and follow the river underground through caves to secret lagoons. And you’ll find that many locals who operate the tour boats row with their feet – which looks incredibly challenging to master. 
+
+Phong Nha–Ke Bang #6 
+
+
+A treasure trove of sights awaits you at Phong Nha-Ke Bang National Park in the middle of Vietnam. Reaching this destination is a bit tricky, allowing Phong Nha-Ke Bang to remain one of Vietnam’s hidden gems away from the tourist trail.
+
+There are, however, quite a few ways to get to the park by trains and sleeper buses. The latter is the perfect option for everyone staying on a budget in Hanoi or Ho Chi Minh City and figuring out an affordable way to move around the country. 
+
+Phong Nha-Ke Bang is more than 800 square km of what seems like a paradise in the middle of the country, with its rivers, caves, jungles, small villages, and mind-blowing natural wonders. 
+
+The world’s biggest cave, Hang Son Doong, is definitely among them. Listed as a UNESCO World Heritage site, it was opened to the public recently. 
+
+But while getting into Hang Son Dong might be a real challenge, exploring the Botanical Garden and the Thac Gio Waterfall is a task that even a non-experienced hiker can manage. The route starts in Phong Nha village, which has several affordable hotels. From here, it is a short bike ride to the beginning of the trail through the tropical forest. 
+
+The trail is marked, free, and easy to navigate. This two-hour hike’s list of noteworthy stops includes an animal rehabilitation enclosure, century-old trees, and a scenic waterfall Thac Gio. The waterfall is 30 meters high and gorgeous. Phong Nha-Ke Bang is well worth a two or even a three-day stay. The time scale will also allow you to explore the Paradise and Dark Caves and have a scenic bike ride around the park. 
+
+Bai Tu Long Bay 
+
+
+Halong Bay was once the magical setting where visitors flocked to cruise pristine waters and navigate limestone monoliths. 
+
+That was then, and this is now, and travelers have now discovered that the more remote area of Bai Tu Long Bay offers the visitor a more authentic experience away from the tourist trail. Explore Bai Tu Long Bay by booking onto one of the many two or three-night cruises that depart from Halong Bay. 
+
+As you wave goodbye to the overcrowded waters of what was once a premium destination, you gradually realize that there are no other boats near you – and this is the lure of Bai Tu Long Bay, complete isolation. 
+
+Only a handful of cruise companies have permits to sail the waters of Bai Tu Long Bay so be assured that you will have it to yourself. Enjoy your 3-Day Bai Tu Long Bay Cruise on the South China Sea with activities such as kayaking, visiting caves, fishing, and beach BBQs. 
+
+A highlight of cruising Bai Tu Long Bay’s waters is that you can visit the floating fishing villages where 99% of the residents have never stepped foot on land, an incredible feat in the 21st century. Tours from the boat include visiting a floating pearl farm to witness local life and business first-hand. 
+
+Bai Tu Long Bay is one of Vietnam’s hidden gems, but it is gaining popularity, so make sure you visit before it’s too late! 
+
+Quy Nhon #8 
+
+
+Quy Nhon (also sometimes spelled Qui Nhon) is a small coastal city in Central/South Vietnam typically overlooked by travelers following the usual Vietnam trail. However, Quy Nhon’s area has numerous ancientCham temples and quiet, unspoiled beaches, making it one of Vietnam’s hidden gems, where it is highly worth staying for a few nights. 
+
+The city is situated roughly midway between the charming heritage town of Hoi An and the brash commercial seaside resort of Nha Trang. It’s connected to Vietnam’s north-south railway line at the nearby town of Diêu Trì, so it’s straightforward to stop there along the way. 
+
+While it’s off the beaten track, the city of Quy Nhon and several nearby beaches have a good range of accommodations, including small-scale guesthouses/hotels and several backpacker hostels. 
+
+Beach Life near Quy Nhon 
+
+If you want to stay on a beach near a local fishing village with no large-scale tourism development, consider staying at the lovely Nhon Hai beach (about 30 minutes from the center of Quy Nhon). 
+
+Nhon Hai Beach Hostel is the best spot to stay, offering private rooms and a friendly traveler atmosphere. A short taxi ride from Quy Nhon is Bai Xep Beach, which is entirely uncrowded compared to the beaches you’ll find at Hoi An, making it one of Vietnam’s hidden gems. 
+
+The city beach of Quy Nhon is also worth visiting, as it’s spotlessly clean and shielded from currents by a nearby peninsula. 
+
+Besides the beaches, Quy Nhon offers a chance to see the ancient Champa civilization ruins, including temple ruins and remains of the ancient citadel of its one-time capital. Meanwhile, the city is blissfully not touristy, allowing the curious traveler to visit authentic local markets and restaurants. 
+
+Conclusion 
+
+Vietnam’s hidden gems are breathtaking and will appeal to every individual. Whether it is an adventure you are searching for, a luxury yoga retreat to relax, or exploring Vietnam at a slower pace, there is something to suit all tastes. 

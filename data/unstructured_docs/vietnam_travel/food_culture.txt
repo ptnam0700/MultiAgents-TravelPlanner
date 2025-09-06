@@ -1,36 +1,1112 @@
+food_culture.txt
+
 Vietnam is one of those places where you can plan your whole trip around delicious eats. Not only are the country’s many dishes a treat for your palate, eating local food is one of the best ways to get to know Vietnamese culture and people. Dedicated foodies who go beyond famous eats like phở and bánh mì will find each regional dish is a unique combination of local ingredients, preferences and influences. Here’s a quick guide to a gastronomic adventure around Vietnam.
- 
-There’s a Vietnamese saying that translates to ‘eat Northern, dress Southern.’ Locals in the capital city of Hanoi have a knack for complex recipes that bring out flavours from farm-fresh ingredients. For example, a bowl of steaming bún thang (rice noodles in chicken stock) may take hours to prepare, but when it’s served, the subtle hints of shrimp paste and wood ear mushrooms in the clear broth feels light and effortless.
- 
-Many Northern Vietnamese recipes date back hundreds of years. The food here is heavily influenced by age-old traditions and practices. Bánh chưng, a speciality steamed rice cake prepared on Lunar New Year, comes with its own legend. Inspired by what his land has to offer, a prince created a dish of mung bean and rice wrapped in dong leaves. This dish was so representative of the land that the king rewarded his son with the throne. Vietnamese families still gather every Tết (Lunar New Year) to make bánh chưng as a reminder of our roots.
- 
+
+There’s a Vietnamese saying that translates to ‘eat Northern, dress Southern.’ Locals in the capital city of Hanoi have a knack for complex recipes that bring out flavours from farm-fresh ingredients. For example, a bowl of steaming bún thang (rice noodles in chicken stock) may take hours to prepare, but when it’s served, the subtle hints of shrimp paste and wood ear mushrooms in the clear broth feels light and effortless. 
+
+Many Northern Vietnamese recipes date back hundreds of years. The food here is heavily influenced by age-old traditions and practices. Bánh chưng, a speciality steamed rice cake prepared on Lunar New Year, comes with its own legend. Inspired by what his land has to offer, a prince created a dish of mung bean and rice wrapped in dong leaves. This dish was so representative of the land that the king rewarded his son with the throne. Vietnamese families still gather every Tết (Lunar New Year) to make bánh chưng as a reminder of our roots. 
+
 Food from the North tends to have mild flavours and highlights the natural taste of ingredients, and served with lots of herbs and condiments. Don’t be intimidated by the options that come with your phở. Fresh chillies, limes, and vinegar garlic are all here to help. Before adding anything though, take a sip of the pure bone broth flavoured with star anise, cardamom, and cinnamon. It’s a way to show your respect to the cook, and appreciate the finesse of Northern Vietnamese cuisine. 
 TRY IT:
 Bún thang Thuận Lý, 33 Hàng Hòm, Hoàn Kiếm District, Hanoi
 Phở bò Khôi Hói, 50 Hàng Vải, Hoàn Kiếm District, Hanoi
- 
+
 If you’re a fan of spices, sauces, and dips, you’ll love the food of Central Vietnam. Any local here will tell you that the secret to amazing food lies in the dipping sauce. Sauces in Đà Nẵng, Hội An, and Nha Trang go way beyond your average nước mắm (fish sauce.) Supplied by a long coastline, Central Vietnamese cooks come up with many ways to preserve seafood. Fermented shrimp and fish paste are an essential part of any meal. It's common for each dish to be accompanied by its own dip, making something as simple as a local lunch look like a royal feast with lots of small dishes on the table. Just as well, because this region is home to Vietnam’s former imperial capital, Huế.
- 
+
 Huế is famous for its imperial legacy as well as its spicy food. No trip to Huế is complete without sitting on a sidewalk, slurping up every last drop of the rich, red spicy broth of a bún bò Huế (Huế beef noodles.) From chili oil, chili flakes, to chili jam, Huế is a gem for travellers who love a fiery meal. Not a fan of spicy food? You can explore the wonderful world of Huế cuisine through its delicious dumplings. Huế is known for a variety of steamed dumplings in playful textures, topped with fresh shrimps or shrimp flakes. Of course, each one comes with its own dipping sauce.  
- 
+
 Regarded as some of the most creative in the country, cooks in Central Vietnam have unique ways of flavouring food. In a perfect bowl of mì Quảng (Quảng noodles), turmeric noodles are cut using a knife wiped with peanut oil. The noodles are submerged in just a few spoonfuls of broth, topped with fresh greens, pork or chicken, quail eggs, crushed peanuts, rice crackers and chili. Stopping at a random vendor in Hội An for an early-morning bowl of mì Quảng is a must-have experience. Great Central Vietnamese dishes are impossible to find elsewhere, so make every meal here count. TRY IT: O Lé Dumplings, 104/17/9 Kim Long, Huế 
-Mì Quảng Bà Vị, 166 Lê Đình Dương, Hải Châu District, Đà Nẵng
- 
+Mì Quảng Bà Vị, 166 Lê Đình Dương, Hải Châu District, Đà Nẵng 
+
 Just like the people here, Southern Vietnamese cuisine is open to many influences. Locals in Hồ Chí Minh City bring their own cooking styles from many different parts of Vietnam, creating a culinary hub in the city. Southern dishes are often humble and casual. Unlike some lunch-only eats in the North, most food stalls in Southern Vietnam open all day. The popular cơm tấm (broken rice) is a fantastic breakfast, lunch, or dinner. Made from fractured rice grains that couldn’t be sold, this once-modest dish is now a southern specialty. Served with grilled pork chops and slices of Vietnamese meatloaf, cơm tấm is topped with a generous spoonful of green onions and sweetened fish sauce. In fact if there’s one taste that characterises the cuisine of Southern Vietnam, it’s sweetness.  
- 
-Vietnamese in the South are big on sweetness. A pinch of sugar or a dash of coconut milk makes everything taste better here. Cá kho tộ (claypot fish) gets its distinctive dark colour from caramelised sugar. Seasoned with fish sauce and pepper, the sweet and savory concoction complements the natural taste of the fish, making cá kho tộ burst with flavour. This dish is a great representative of Southern food, and specifically the Mekong Delta. It has sweetness, bold flavours, and features freshwater fish from the Mekong River.
- 
+
+Vietnamese in the South are big on sweetness. A pinch of sugar or a dash of coconut milk makes everything taste better here. Cá kho tộ (claypot fish) gets its distinctive dark colour from caramelised sugar. Seasoned with fish sauce and pepper, the sweet and savory concoction complements the natural taste of the fish, making cá kho tộ burst with flavour. This dish is a great representative of Southern food, and specifically the Mekong Delta. It has sweetness, bold flavours, and features freshwater fish from the Mekong River. 
+
 The verdant Mekong Delta region is all about green vegetables, freshwater fish, and abundant tropical fruits. You’re sure to eat well here. The nutrient-rich soil is so fertile that when cultivated by hardworking Vietnamese farmers, it yields beautiful produce and some of the sweetest fruits in the country. After a day of paddling along small canals surrounded by mangrove trees, a plate of freshly picked dragon fruit, mangosteen, or longan with honey tea is a signature Mekong Delta snack. Dining in the South is a very laid-back experience. Recipes are simple and people are welcoming. Vegetable hotpot on a straw mat in the backyard is a great way to get to know the locals. You’ll find they are just as sweet as the fruit they grow. TRY IT: Cơm tấm Nguyễn Phi Khanh, 113 Nguyễn Phi Khanh, District 1, HCMC
-Fresh fruits at Cái Bè Floating Market, Mekong Delta
- 
+Fresh fruits at Cái Bè Floating Market, Mekong Delta 
+
 In Vietnam, street food is everywhere. Early morning markets, roving vendors, and bustling sidewalk stalls all trade in Vietnam’s famously mouthwatering cooking. There’s so much to taste. Wondering where to start? This handy guide will give you all the tools you need to navigate Vietnam’s street food scene like a pro.
- 
+
 To find the best food in Vietnam, eat when the locals do. In other words: eat early. Everything gets curiously quiet after Vietnam’s mealtimes are over, and it can be hard to find a satisfying option. On the other hand, eating together with the locals is guaranteed fun each time.
- 
+
 Strike out just after sunrise for unforgettable bowls of piping hot noodles, hearty rice porridge, or sticky rice cakes dipped in peanuts. The areas near markets are prime spots for morning vendors who feed school children, market sellers, and locals heading to work.
- 
+
 Vietnam’s lunch stalls open for business from 11:30am to 1pm. Look for the ever-reliable cơm bình dân: A choose-it-yourself eatery with an array of family-style dishes — fluffy omelette, garlicky greens, caramelised fish and roasted pork — laid out for display and heaped on plates of hot rice. (So good!)
- 
+
 Come 5pm, Vietnam’s restaurants and stalls begin spreading their stools on the sidewalk for the dinner crowd. The hours between 6pm and 8pm are your sweet spot for flaming hotpots, grilled seafood and barbecue sessions in the balmy evening air. The busier the stall, the more likely it’s worth the wait.
- 
+
 Vietnam boasts an ever-growing list of eateries that travellers know and love, such as Hoi An’s Banh Mi Phuong and The Lunch Lady in Ho Chi Minh City. But it’s well worth it to try new places when you travel. Just clocked an interesting stall down an alley? Use your eyes to check off this list:
+
+1. Is the set up — tables, floors, utensils — clean and organised? 
+
+2. Are the ingredients or dishes nicely presented, colourful and farm-fresh?
+
+3. Is there a gaggle of local customers eating or waiting to be served?
+
+If the answers are ‘yes’, you’ve picked a good spot. Place an order and enjoy.
+
+TIP: In Vietnam, many stalls serve just two or three dishes perfected by the owner-chef. If you’re unsure what to order, don’t be afraid to request whatever the next table is having.
+
+Vietnam’s unspoken customs for eating on the sidewalk are simple and forgiving, especially for newcomers. A rule you can always rely on is, ‘eat first, pay later.’ Place your order at the front, then choose your own table or stool to sit. A quick wipe down of your chopsticks or spoon before eating is perfectly normal (and even wise), as is using your chopsticks to sample any shared dishes on the table. Dirty napkins, squeezed limes or herb stems can be dropped into bins below as you eat. Once you’re finished, lay your chopsticks together on the top of your bowl.
+
+For small stalls, diners usually ask the total and pay the chef directly on the way out. In some cases, a server may come to the table and do a mental tally of your bill. Trust them — they do this every day. A written tab is not common for local food, but you can ask for it if needed.
+
+TIP: At peak times, other diners may join you to eat at your table. In these cases, a smile is all the interaction that’s required.
+
+Condiments are essential to the Vietnamese dining experience. On your table, there will often be a jar of light fish sauce, a jar of garlic and chili in vinegar, and perhaps a jam-like chili paste, freshly chopped chili, limes or calamansi, or even a pungent shrimp paste. All these are for you to customise the meal to your liking.
+
+With noodle dishes, a side serving of herbs and leafy greens — mint, cilantro, basil and lettuce — comes free of charge. Fold these into the broth or toss with dry noodles for added crunch and aromatics. For rolls, a stack of rice paper and larger leaves for rolling and dipping is offered. Dipping sauces may range from tangy tamarind, to sweet-and-salty fish sauce to roasted peanut sauce. Your server will be happy to show you the right pairing.
+
+TIP: Instead of soy sauce, the Vietnamese prefer a few drops of fish sauce to season their meals. There are countless grades and varieties of fish sauce, and it’s a staple of any kitchen.
+
+
+When your mouth isn’t full of delicious bites, you may want to express yourself using a few common Vietnamese phrases. Here are some every traveller should know:
+
+Anywhere in Vietnam, a confident ‘em ơi!’ will bring a server to assist you. 
+
+Vegetarians in Vietnam will want to learn the words ‘không thịt’ (no meat) and ‘ăn chay’ (vegetarian food) to use during their travels.
+
+‘Ngon quá’ means ‘very delicious’.
+
+When pointing out your preferences, ask for ‘một suất’ (one serving), or ‘một cái này’ (one of these.)
+
+‘Trà đá’ is iced green tea, which Vietnamese stalls all over the country serve instead of water. In cold weather you may like ‘trà nóng’ (hot tea) to go with your meals.
+
+Ready to leave? Say ‘tính tiền’ to request the bill.
+
+the street food scene in Ho Chi Minh City (Saigon) permeates every district, neighbourhood and alleyway. The city boasts so many street food outlets that at times the southern metropolis looks, feels and smells like one gigantic, open-air restaurant. Every day, thousands of street-side eateries offer up delicious, cheap food in an informal arrangement on the city’s sidewalks. But street food is about more than food: it’s about atmosphere and ambience, community and conviviality. As a friend of mine once pointed out, if you take street food home with you, it doesn’t taste as good. Eating street food and exploring the streets where it’s sold is without doubt the best thing to do in Ho Chi Minh City. This guide introduces 10 great streets for street food in Ho Chi Minh City.
+
+In this guide I’ve listed, reviewed, illustrated and mapped 10 of the best streets for street food in Ho Chi Minh City (Saigon). In the descriptions for each street I’ve included some recommendations of particular places to eat, but it’s best to just wander around and eat whatever takes your fancy. Defining street food is increasingly difficult as investors cash-in on the popularity of street food and successful vendors, who started their businesses working alone from a pushcart, now have the financial means to upgrade their facilities and manage a large team of employees in a rented shopfront. While some people might have strict definitions of what is and isn’t ‘street food’, I define it as anything that’s eaten at street level at affordable prices in an informal environment. Note that the following streets are not in order of preference: they are all worth exploring. Click a street name below for details and, if you enjoy this guide, please donate. (For more street food guides, see Related Posts.)
+
+Sư Vạn Hạnh is a long street but the section between Ngô Gia Tự and Nguyễn Chí Thanh is the part jam-packed with an excellent selection of street food. Due to the density of living spaces, the area’s street life is exceptionally vibrant. Yet change is afoot: the first apartment block in the area has been torn down as part of a wider plan to improve the residential situation. This comes at a time when the neighbourhood has been experiencing a surge of attention as one of the local eateries received an award from the Michelin Guide in 2024. The question now is whether the money and attention generated from food tourism will halt the demolition of the rest of the apartment complex.
+
+The street’s speciality is bánh xèo (savoury crepes filled with pork and bean sprouts). Dozens of places serve small bánh xèo cooked on circular trays over flaming, coal-fired barbecues. My favourite spot is at 007 Lô H (literally ‘Block H’), where the cooking area is as exciting as the dish is tasty. Recent Michelin Bib Gourmand awardee Bò Kho Gánh (029 Lô H) sells aromatic beef stew a little bit further down the block. Beautifully decorated and a little pricey, it stands out from neighbouring outlets. But don’t just visit the Michelin-recommend eatery: on a street like this, dozens of food outlets are worthy of Michelin recognition.
+
+At the corner with Hòa Hảo Street there’s a good Chinese-style noodle outlet called Tai Phát. Try the stall speciality mì vịt tiềm (egg noodles with duck in a deeply aromatic broth). The noodles are sold from a classic xe mì (noodle trolley) decorated with painted dragons and scenes from Chinese mythology. Right at the southern end of Block H (Lô H) there’s an outstanding Vietnamese dessert (chè) stall on the corner called Khánh Vy (032 Block H). This place is rammed with customers who gather around the tables to enjoy any of the sixteen different kinds of desserts sold here. All of them are gooey, sweet, colourful and involve sticky rice, green bean or coconut milk in some form or another. The textures and flavours might be unfamiliar to most foreign palates but the sheer variety and youthful energy of this stall make it my favourite place on this street. My personal favourite is chè mè đen – a black sesame pudding.
+
+Vạn Kiếp must be a contender for the city’s most densely packed street food street. If you only have one chance to visit a street food spot in Ho Chi Minh City and crave a large selection with a bustling atmosphere, Vạn Kiếp street is the place to go. Even in the drizzle of a cool rainy evening, Vạn Kiếp street is an exciting showcase of Vietnamese street food. Neon signs prick the night, illuminating the slanting rain as they announce the specialties of each food and drink outlet: phở, bánh canh cua, bánh mì, bánh xèo, bún mắm, bún bò Huế, bún chả, nem nướng, chè – there must be at least fifty different dishes available on this street, and over a hundred eateries to choose from. The street is packed with customers ranging from young Vietnamese indulging in their own street food adventure, to parents initiating their children into the delights of street food while allowing themselves moderate indulgences. Everyone is clustered around small plastic tables, hunched over on small plastic stools, talking, eating, gesticulating, laughing.
+
+On the corner of Phan Xích Long Street and Vạn Kiếp Street is the very popular Ốc Zuka, where the kitchen operates right next to the tables and chairs of diners. Opposite Ốc Zuka is a cluster of restaurants specializing in the pungent Mekong specialty bún mắm: go to Quán Dì Cẩm (181 Vạn Kiếp) to try this potent seafood noodle soup, a fusion of Khmer and Vietnamese flavors. Further down the road, away from Phan Xích Long Street, you’ll find crispy savoury Vietnamese pancakes at Bánh Xèo Miền Tây in front of Vạn Kiếp Market and fried Japanese octopus doughballs at Takoyaki Katchi (133 Vạn Kiếp). Another of Vạn Kiếp Street’s popular spots is Mì Xào Giòn (serving deep-fried crispy egg noodles at 181 Vạn Kiếp). Watch as staff meander through the traffic carrying customers’ orders from the kitchen on one side of the street to the diners on the other side. Feeling heavy from too much greasy food? Not to worry, head to Quán Kem Trái Dừa (66 Vạn Kiếp) for some refreshing coconut ice cream or dig into a cobia fish hotpot at Lẩu Cá Bóp (02 Vạn Kiếp).
+
+
+In the past, Hồ Thị Kỷ Street was best known for its night flower market. However, in recent years the proliferation of street food stalls on an adjacent alleyway has turned the area into one of the most popular spots for street eats in the city. The two narrow streets are now known as the Hồ Thị Kỷ Food Street & Flower Market (Phố Ẩm Thực và Chợ Hoa Hồ Thị Kỷ).
+
+Unlike other locations covered in this guide, Hồ Thị Kỷ Street has grown in popularity not only with domestic visitors but also with international travellers, including food tour groups. Its popularity stems from the density of eateries on a narrow alleyway with a low volume of road traffic. The rise in popularity of this street has also driven up rental prices, which in turn puts additional pressure on vendors: many now resort to pushy selling techniques and stocking gimmicky foods instead of regional specialties. Nevertheless, Hồ Thị Kỷ is still a lot of fun because of its bustling atmosphere and street food gems.
+
+Hồ Thị Kỷ Street proper is actually the ‘flower market street’, whereas the ‘food street’ occupies the parallel alleyway (Hẻm 66 Hùng Vương), and several small alleys connect both streets, creating a grid of narrow arteries. Tiny tables and chairs line the street, with music booming from unseen speakers. Be sure to walk around a bit before deciding where to stop and eat. Look out for the Chân Gà Rút Xương cart (they insist that 498 is the street number, but that doesn’t align with the fixed street numbers here) whose specialty is chicken feet in spicy-sour Thai sauce, but I encourage you to try the cà na (Chinese olives), a salty and sour fruit popular in the Mekong Delta which will send your tastebuds into a spin. Buy a portion and distribute them among your party. Be careful with the pip!
+
+Meat options abound, such as a portion of phá lấu (simmered meat offal in a richly aromatic broth) or some Korean chicken at the popular stand Món Gà Sốt Cay Hàn Quốc. Barbecued meats and seafood are available every couple of meters: try the deep-fried spicy octopus sticks (bạch tuộc chiên) at 93/24 Hồ Thị Kỷ, thick meat sticks (nem lụi) in the southern-highland style are very popular with visitors, or try Vietnamese tacos (bánh tráng nướng), grilled quail eggs (trứng cút chén), and Cambodian dessert (chè Khmer). If you’re looking for something a bit more substantial than novelty street bites, there are heartier options, such as hủ tiếu (southern-style pork noodle soup), cơm gà (chicken rice), and lẩu bò (beef hotpot) at 84/10 Hẻm 80 Hồ Thị Kỷ, a few minutes’ walk from the food street.
+
+Between snacks on Hồ Thị Kỷ Street, take a stroll along the alleyways off the main food strip for an intimate perspective of residential life in this city quarter. In addition, the alleyways heading due east will take you to the flower market on the parallel Hồ Thị Kỷ Street. The flower market doesn’t really get going until late into the night: around midnight trucks begin to arrive from the highlands, laden with fresh flowers, unloaded and presented at the stalls in the very early hours of morning. It’s well worth staying up (or waking up) for. In the evenings, there are still dozens of flower stalls operating on the street. Hồ Thị Kỷ is also in close proximity to the fascinating Nguyễn Thiện Thuật apartment complex, which is an excellent street food area in itself. 
+
+District 5, 6, and 11 comprise what is known as Chợ Lớn (literally ‘Big Market) which is the world’s biggest ‘Chinatown’. Chợ Lớn is made up of Chinese communities who first migrated here as far back as the 16th century. Chợ Lớn includes some of the city’s oldest quarters, and a walk through them can be aesthetically pleasing and highly rewarding. Hà Tôn Quyền Street, straddling the borders of District 11 and District 5, is one such area: a lively street entrenched in the local community with some old architecture. In the daytime, the street hosts a sprawling flea market of machinery and electronics, but as day turns to night, the northern part of the street, between Nguyễn Chí Thanh and Trần Quý, becomes a flurry of Chinese-influenced eateries.
+
+On the southern side of the Nguyễn Chí Thanh – Hà Tôn Quyền intersection are two highly popular restaurants named Quán Lẩu Vận Hảo and Quán Lẩu Đông Xuyên. Both sell a range of dishes but are renowned for their distinct hotpots (lẩu). At the table, diners choose the flavour of their broth and their preferred meat, then watch it cook before adding veggies. This is a great meal to share between a small group.
+
+Head north on Hà Tôn Quyền Street and you’ll reach a range of restaurants specializing in sủi cảo (Chinese-style dumplings). For more than 20 years, this has been a popular location for dumping dining in the city. There are dozens of sủi cảo eateries and competition is fierce. Staff try their best to attract the patronage of passersby. The sủi cảo dumplings can be boiled, fried or steamed and served dry or in soup with egg noodles. Don’t forget to include a glass of nước sâm (herbal tea), a cool, refreshing drink popular among the Chinese community. At the Trần Quý – Hà Tôn Quyền intersection, a lone vendor sells various pastries, including bánh tiêu (fried dough). Try one of the bánh tiêu sầu riêng (durian doughnuts) to cap off your food adventure on this street. 
+
+Cô Giang is a long, straight street that unofficially marks the southern perimeter of the city’s burgeoning backpacker area in District 1. However, Cô Giang Street is a lot quieter than nearby Phạm Ngũ Lão, Bùi Viện and Đề Thám streets whose bars, western restaurants and mini-marts make up the core of the backpacker district. In general, Cô Giang Street has a more local and residential atmosphere than the tourist-oriented businesses and party vibes of Bùi Viện. But, large plots of land along Cô Giang Street are marked out for construction, suggesting long-term plans to build hotels and commercial buildings here. For now though, Cô Giang’s street food culture continues to flourish and this is most evident at its northeastern end.
+
+In the evenings, bright fluorescent light bulbs illuminate streetside barbeques, whooshing woks and bubbling cauldrons. Scented cooking smoke fills the air and hangs, like a Dickensian fog, over the diners sitting at tables on the sidewalk. A popular stand selling cơm tấm (broken rice) at 24 Cô Giang is run by three generations of one family, with seating down an alleyway. Head to the stand and point at whatever dish takes your fancy. Nearby, the unmistakable fragrance of bò lá lốt (grilled beef rolled in aromatic vine leaf) wafts over from A Hào at 271 Cô Giang Street. 
+
+Food options thin out as you head further towards the south-western end of the street, but some gems can still be found. A good fix of egg noodles (mì khô) with a topping of shrimp, pork or squid can be found at 31 Cô Giang; or Mì Sủi Cảo (91 Cô Giang Street) specializes in Chinese-style wanton noodles; and a few locations sell chè (Vietnamese pudding) at 60 and 85 Cô Giang Street. 
+
+Once a thriving street food mecca, Trần Khắc Chân Street feels more formal than it did in the past. These days, the neighbourhood street vendors operating on the sidewalk compete for attention with franchise restaurants whose multicoloured branding lights up the buildings. But Trần Khắc Chân Street still holds on to its street food culture, for now at least. Hemmed in at one end by the Thị Nghè Canal and at the other by the tree-lined Trần Quang Khải boulevard, this is a street to let your ‘foodie instincts’ guide you: follow the smells, the smoke and the neon signage towards whatever dishes appeal most to you.
+
+Most of the action is at the Thị Nghè Canal end of the street. A good place to start is at the popular Bánh Canh Cua 87 which, unsurprisingly, serves bánh canh cua at number 87 Trần Khắc Chân Street. This gooey, slimy, crab-based dish features thick and doughy noodles which are famously slippery: getting them to stay on your chopsticks from bowl to mouth is a challenge for diners not used to using chopsticks. Another great spot for noodles is Phở Hải down the alley from the Trần Khắc Chân-Trần Khánh Dư crossroads. A street food stalwart, Hải has been running this family business for over 30 years. Always busy and almost always open (from 6am-3am!), Hải’s staff insist that their beef phở is the southern version, rather than the traditional northern one. On humid nights, cool off with a glass of fresh pomelo juice (nước ép bưởi) at 122 Trần Khắc Chân Street. 
+
+Home to the inner-city port of Saigon, District 4, once a favourite haunt of notorious Vietnamese gangster Năm Cam (executed in 2004), continues to have associations with the city’s underworld. With over 200,000 residents packed into approximately 4km² of land, the density of this district creates an electric street-level atmosphere. Vĩnh Khánh Street is one of Ho Chi Minh City’s most popular places for street food, especially for seafood and grilled meats. Groups of friends and families hunker down at tiny red and blue plastic tables, splitting shells, cracking crab legs, clinking beer glasses and having a really good time. As if the cacophony of laughter, traffic and shouted orders wasn’t enough, some self-styled entertainers occasionally pull-up with giant amplifiers strapped to their motorbikes and proceed to blast out karaoke, magic routines or dance performances for the amusement (or displeasure) of street food diners. Calling the food scene here vibrant would be an understatement: it’s chaotic, loud and busy. Vĩnh Khánh Street is a raucous celebration of food, fun and life!
+
+Head to Ốc Oanh (534 Vĩnh Khánh Street) for seafood and shellfish. This is the most famous of all the seafood joints on the street. The portions are big, the seafood is fresh and the service is brisk and efficient. Try ốc hương rang muối ớt (fried sea snails with salt and chilli) and sò điệp nướng mỡ hành (grilled scallops with spring onions and peanuts). Prices are a little higher here than elsewhere but it’s worth it. A bit further down Vĩnh Khánh Street, you’ll find cơm cháy kho quẹt, a delicious dish of caramelized meat and vegetables in a peppery sauce paired with crispy-fried rice crackers. As you reach the bottom of Vĩnh Khánh, a few eateries sell some familiar street food favourites, such as bún thịt nướng (cold noodle salad with marinated grilled pork) and bún cá Châu Đốc (turmeric fish noodles from the Mekong Delta). Once you’re finished eating, head to the intersection where Vĩnh Khánh Street meets Hoàng Diệu Street and grab a sinh tố (fruit smoothie) to finish up.
+
+A tip for travellers is to remember that Vĩnh Khánh Street is just one part of a much wider street food scene in District 4. The maze of alleyways connecting Đoàn Văn Bơ Street and Vĩnh Khánh Street is filled with small eateries and cafes. Pagoda-strewn Nguyễn Hữu Hào Street boasts a lot of vegetarian food for practising Buddhists. And Tôn Đản Street, which connects with the bottom of Vĩnh Khánh, is also packed with street food eateries. Vĩnh Khánh is just the beginning! 
+
+Nguyễn Thượng Hiền Street is long and narrow, lined with enormous concrete electricity pylons leading to the heart of District 1. Yellow street lamps rise above boxy houses, while tangled electricity cables hang in front of neon signs like jungle vines. At night, neighbors fraternize with vendors over barbequed meats and cans of beer. Dining options on Nguyễn Thượng Hiền Street are a bit more limited than other street food locations. These days, it feels more like a “drink street” – a place where people stop by on their way to and from work or school for liquid refreshments. Motorbikes and cars pull up beside the pavement and order from their seats before continuing on their way. Near the intersections with Nguyễn Đình Chiểu and Nguyễn Thị Minh Khai, several large juice stalls sell freshly squeezed tropical fruits into plastic bottles to take away (try Phát Đạt at 125 Nguyễn Thượng Hiền). Milk teas and herbal teas line the street – one that caught my eye was sữa hạt dẻ – hazelnut milk at 239 Nguyễn Thượng Hiền. Vietnam’s cornerstone well-being beverage, nước ép rau má (pennywort juice), is available at several vendors, including Mèo Hạt Dẻ (257 Nguyễn Thượng Hiền).
+
+Along, narrow street connecting two of the city’s busiest arteries, Phan Văn Hân Street presents a wonderful selection of street food with cheap stalls frequented by residents and students from nearby universities. Just across the Thị Nghè Channel from the glitz and glamour of central District 1, Phan Văn Hân Street has an appealingly local, unpretentious atmosphere. 
+
+Phan Văn Hân Street can be divided into three sections. The eastern end is the busiest, with lots of traffic passing through and plenty of places to eat. The central section is calmer with a pleasant combination of residential life and street food activity and alleyways splintering off into darkness, occasionally lit by the headlights of passing motorbikes. The western end is mostly businesses, apartments and houses, with just a sprinkling of dining options.
+
+Explore Phan Văn Hân Street between 5pm-8pm to experience it at its best. Start by heading west of the intersection with Xô Viết Nghệ Tĩnh Street and stop at some of the tropical fruit vendors on your way. This section of the street is especially narrow and regularly gets clogged with cars. Stop by one of the many bánh tráng trộn stalls, such as Cô Xuân at 152 Phan Văn Hân, who sells from a shoulder yoke at a fixed location. Bánh tráng trộn is a street food classic made of shredded mango and papaya, dried beef, peanuts and quail eggs all mixed together in a bag or wrapped in rice paper. Further up the street is the popular Quán Ốc Sinh Viên (literally ‘Student Snails’) serving a range of grilled seafood, shellfish and snails. Its name implies that prices are so cheap that even cash-strapped students can afford them. Go back to the intersection with Xô Viết Nghẹ Tĩnh Street and cross over to the eastern end of Phan Văn Hân Street. Here you’ll find one of the most famous noodle joints in the area, Lương Ký Mì Gia (1 Huỳnh Mẫn Đạt Street). They serve all sorts of noodles but the dish that made them famous is mì vịt tiềm (fresh yellow noodles with marinated aromatic duck). Due to their generous portions, the restaurant tends to run out of food before they close, so make sure you get here early! 
+
+Phạm Thế Hiển Street runs alongside the Kênh Đôi Canal across the entire length of District 8 for approximately 10km. The road deserves its own guide for its fascinating cross-section of peripheral Saigonese society. The population here is a mix of economic migrants and long-term residents whose families have lived here for generations. This diversity is reflected in the variety of food on offer, featuring dishes from all three regions of Vietnam, along with a few international flavours. The atmosphere is similar to other street food areas in this guide, but what really stands out is the lack of regular outside intrusions: unlike Vĩnh Khánh and Hồ Thị Kỷ, few international tourists trouble themselves to come all the way to District 8 for street food. You could choose any part of Phạm Thế Hiển Street for a food adventure, but for the purposes of this guide, I focus on the section around Phạm Thế Hiển Market (Chợ Phạm Thế Hiển). 
+
+During the daytime, Phạm Thế Hiển Market is the centre of the action. With apartment blocks flanking two sides, people busy themselves with buying, selling, shipping or preparing meals for their families. As night falls, eateries pop-up in front of homes selling a range of street foods and snacks. People here are friendly and chatty: visitors may well be invited to eat and drink with vendors or residents. Start with something simple, such as a Hanoi-style bánh mì (filled baguette) at 6 Phạm Thế Hiển and then cross the street where you’ll find seasoned Khmer-style beef skewers at 23, 1B Lô 27 Phạm Thế Hiển. Sample some of the grilled seafood stands in front of the market and then dig in to some bò lá lốt (grilled beef rolled in aromatic vine leaves) and bánh bột chiên (fried rice flour cubes) along the riverside at 2 Lô 19 Phạm Thế Hiển. After this, try a glass of sweet tapioca dessert at Chè Bưởi 877 (877 Phạm Thế Hiển). This popular spot sells several varieties, including grapefruit, green bean and tofu. There are plenty more places offering other delicious eats around here. Go beyond this guide and explore the surrounding streets. 
+
+Vietnam has loads of street food and eats—a whole vibe—a flavorful, fresh, and bold, totally tied to tradition. If you're ever thinking of going, knowing what to chomp and where would most likely make your experience one for the books. Here is a guide that can help you in deep-diving into Vietnamese street food, which, in reality, is very helpful for travelers.
+
+Why You Gotta Try Vietnamese Street Food
+Vietnamese street food is all about the vibe of its culture, perfectly mingling sweet, sour, salty, and spicy flavors together. These food items are super delicious yet extremely cheap, their varieties coming in under less than a dollar apiece.
+
+Vietnamese food is so famous all around the world that some people come here especially for the Vietnam food tour. Oh and there are motorbike food tours in big cities like Ho chi minh and Hanoi, we loved them personally!
+
+Every region has different fancies, so plenty of variety exists when you wander around the country. You would be surprised at the diversity between north and south Vietnam!
+
+Bánh Mì - A Vietnamese Sandwich
+This was an awesome mix of French and Vietnamese vibes: a crispy baguette heavily packed with various types of meat, pickled veggies, fresh cilantro, and a kick of chili sauce. Places like Huỳnh Hoa (google maps link) are super famous in Ho Chi Minh City for their fancier takes on this classic sandwich.
+
+Pho is the iconic dish, generally eaten at breakfast time. Northern versions, especially those from Hanoi, boast a light, crystalline broth, while in the south they are sweet and herbaceous. Look for tiny vendors dishing out steaming bowls at dawn.
+
+These translucent roll-ups of shrimp, pork, vermicelli, and herbs are wrapped up and served with this tasty peanut dipping sauce. These make a great light snack and can be found in street food markets everywhere from Saigon to Da Nang.
+
+This is the Hanoi dish of some seriously delicious patties of grilled pork, served with vermicelli noodles, fresh herbs, and super acidic dipping sauce. They say this is the dish that wholly and completely swooped up ex-President Obama when he came to Vietnam.
+
+Thin pancake-like crêpe made from rice flour, crispy outside with shrimp, pork, and bean sprouts inside; another favorite street food. Best eaten wrapped in leaves of lettuce with herbs and dipping into fish sauce.
+
+It is an experience in itself—Vietnamese coffee served over ice with thick, sweetened condensed milk. This is the perfect pick-me-up on your food tour.
+Do note Vietnamese coffee is extra strong and usually very sweet too. You should ask them to reduce the condensed milk quantity if you want to reduce your sugar intake.
+
+Essentially, chè is the term for these beans, jellies, or fruits in sweet soups or dessert-like puddings. You'll see tons of flavors out there, usually piled high with crushed ice on top.
+
+And for good reason, since this sticky rice is generic enough to be consumed plain, with mung bean paste, fried shallots, and even pork floss that's sold as either a breakfast staple or even a day snack.
+
+Tips on Street Food for Travelers
+Go Local: All one needs to do is check out street vendors at Ben Thanh in Saigon or at Dong Xuan in Hanoi for some really authentic vibes.
+Hygiene: Choose those stalls whose dishes are of high turnover because fresh ingredients are basic to safe eating.
+
+Communicate: Knowing basic Vietnamese phrases like “Bao nhiêu tiền?” (How much?) can help you connect with vendors and avoid confusion. If vegetarian, ask for "chay" foods, but also mention not to add any fish sauce in it.
+
+Street Food Etiquette
+In Vietnam, it is available sitting on small plastic stools next to the locals' side. The locals share the tables with the people, so this is really social.
+
+I mean who doesn’t love those small plastic stools to relax and watch people watching in the evening :)
+
+Street Food Places to Go
+Hanoi: Known for its awesome phở, bún chả, and egg coffee, this northern capital has a cool blend of tradition and new ideas.
+
+Ho Chi Minh City: The streets are just so alive, smelling of perilously delicious bánh mì, chè, and all types of seafood.
+Tourists Enjoying Food Tour in Ho Chi Minh City
+
+Hoi An: Known for cao lau noodles and white rose dumplings, flavors found nowhere else in this ancient town of Hoi an. You can also try the local egg noodles cooked in Vietnamese style which is quite delicious!
+
+Hue: The aristocratic culinary tradition, steamed rice cakes are indispensable here.
+
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+Vietnamese street food culture
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+
+
+Vietnamese street food culture
+
+
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+
+
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+
+
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+
+
+Vermicelli or noodle is the English word for “Bun” - a popular dish in the best street food in Vietnam. Bun noodle soups employ vermicelli noodles, which are round in form and have a deeper white color when cooked, in place of the "banh pho" (a flat rice noodle) that is used in Pho. There are many kinds of Bun: Bun Cha, Bun Moc, Bun Mam, Bun Bo Hue, Bun Rieu, Banh Canh... Bun Moc is one of the vermicelli that is loved by most Vietnamese and foreign tourists. Noodles with ingredients are raw spring rolls, also known as sprouts, so they are called sprouted vermicelli... can be served with chili, shrimp paste, satay, raw vegetables, and lemon. However, each Bun has its unity and taste that you should try for your visit to Vietnam. 
+
+Click here to learn more about Best Vietnamese Bun.
+
+
+
+Bún Đậu Mắm Tôm - "Vietnamese salad"
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+
+
+Vietnamese street food culture
+
+
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+
+
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+
+
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+
+
+Vermicelli or noodle is the English word for “Bun” - a popular dish in the best street food in Vietnam. Bun noodle soups employ vermicelli noodles, which are round in form and have a deeper white color when cooked, in place of the "banh pho" (a flat rice noodle) that is used in Pho. There are many kinds of Bun: Bun Cha, Bun Moc, Bun Mam, Bun Bo Hue, Bun Rieu, Banh Canh... Bun Moc is one of the vermicelli that is loved by most Vietnamese and foreign tourists. Noodles with ingredients are raw spring rolls, also known as sprouts, so they are called sprouted vermicelli... can be served with chili, shrimp paste, satay, raw vegetables, and lemon. However, each Bun has its unity and taste that you should try for your visit to Vietnam. 
+
+Click here to learn more about Best Vietnamese Bun.
+
+
+
+Bún Đậu Mắm Tôm - "Vietnamese salad"
+
+
+
+Bun dau mam tom, also known as "mam tom," is a Vietnamese salad dish with shrimp paste and preserved lime leaves. Bun dau mam tom is a controversial dish with rice noodles, tofu, and fermented shrimp paste as its star ingredient. If you do not know how to eat mam tom (shrimp paste) like me, you can try this dish with fish sauce, this is still a  good choice. It is a popular side dish in Vietnamese cuisine and can be served as an appetizer or main course. De Bun Dau Mam Tom is more costly than the pork variant since it requires specialized cooking and fish texture understanding. Originating in Hanoi, the dish's origin remains uncertain, even among locals.
+
+Where to eat Bun Dau Mam Tom?
+
+- Bun Dau Co Tuyen: No.31 Lane 29, Hang Khay Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Ngo Gach: 4 Ngo Gach, Hang Buom Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Trung Huong: 49 Phat Loc Lane, Hang Bac Street, Hanoi
+
+- Bun Dau Ngo Tram: 1B Ngo Tram, Hoan Kiem district, Hanoi
+
+- Bun Dau Cay Da: 235B Thuy Khue Street, Tay Ho district, Hanoi
+
+
+
+Ca Phe Trung - Vietnamese Egg Coffee
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+
+
+Vietnamese street food culture
+
+
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+
+
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+
+
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+
+
+Vermicelli or noodle is the English word for “Bun” - a popular dish in the best street food in Vietnam. Bun noodle soups employ vermicelli noodles, which are round in form and have a deeper white color when cooked, in place of the "banh pho" (a flat rice noodle) that is used in Pho. There are many kinds of Bun: Bun Cha, Bun Moc, Bun Mam, Bun Bo Hue, Bun Rieu, Banh Canh... Bun Moc is one of the vermicelli that is loved by most Vietnamese and foreign tourists. Noodles with ingredients are raw spring rolls, also known as sprouts, so they are called sprouted vermicelli... can be served with chili, shrimp paste, satay, raw vegetables, and lemon. However, each Bun has its unity and taste that you should try for your visit to Vietnam. 
+
+Click here to learn more about Best Vietnamese Bun.
+
+
+
+Bún Đậu Mắm Tôm - "Vietnamese salad"
+
+
+
+Bun dau mam tom, also known as "mam tom," is a Vietnamese salad dish with shrimp paste and preserved lime leaves. Bun dau mam tom is a controversial dish with rice noodles, tofu, and fermented shrimp paste as its star ingredient. If you do not know how to eat mam tom (shrimp paste) like me, you can try this dish with fish sauce, this is still a  good choice. It is a popular side dish in Vietnamese cuisine and can be served as an appetizer or main course. De Bun Dau Mam Tom is more costly than the pork variant since it requires specialized cooking and fish texture understanding. Originating in Hanoi, the dish's origin remains uncertain, even among locals.
+
+Where to eat Bun Dau Mam Tom?
+
+- Bun Dau Co Tuyen: No.31 Lane 29, Hang Khay Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Ngo Gach: 4 Ngo Gach, Hang Buom Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Trung Huong: 49 Phat Loc Lane, Hang Bac Street, Hanoi
+
+- Bun Dau Ngo Tram: 1B Ngo Tram, Hoan Kiem district, Hanoi
+
+- Bun Dau Cay Da: 235B Thuy Khue Street, Tay Ho district, Hanoi
+
+
+
+Ca Phe Trung - Vietnamese Egg Coffee
+
+
+Vietnamese Egg Coffee (cà phê trứng) is a rich, flavorful, and thick-bodied coffee beverage made with raw egg yolk and condensed milk. Originating at The Giang Cafe in Hanoi, it is affordable and accessible to everyone. This silky, sweet, and creamy dessert coffee has a sweet eggy foam atop a dark brew, resembling tiramisu. The popularity of Vietnamese Egg Coffee is due to its customizable topping options, ranging from traditional coffee pairings like spices to unusual ones like butter and cheese. This delicious drink has inspired numerous baristas worldwide to imitate and create their own unique twists. This article provides a history of the drink's origin and offers recipes for homemade Vietnamese Egg Coffee.
+
+Where to enjoy Ca phe Trung?
+
+- Cafe Giảng is located at 39 Nguyen Huu Huan Street - Hanoi 
+
+- NeoCafe :
+
+Establishment 1: No. 33 Le Dai Hanh Street - Hanoi 
+
+Establishment 2: No. 35B Nguyen Huu Huan Street - Hanoi 
+
+Establishment 3: No. 109 Chu Van An Street - Ho Chi Minh City
+
+- Đinh Café is located at 13 Dinh Tien Hoang, Hang Bac, Hoan Kiem, Hanoi
+
+- RuNam D'Or:
+
+District 1 Runam Cafe Locations:
+
+Runam Bistro – 2-4-6 Đong Khoi
+
+Runam Bistro – 96 Mac Thi Buoi
+
+Runam Boutique Saigon Center – 65 Le Loi 
+
+Runam Boutique Vincom Center – 72 Le Thanh Ton 
+
+- Luu Gia Cafe & Food: 8 Hoa Cuc, Phu Nhuan District, City. Ho Chi Minh City
+
+- Kafein House: 349 Su Van Hanh, Ward 12, District 10, City. Ho Chi Minh City
+
+
+
+Banh Trang Nuong - Vietnamese Pizza
+Vietnamese Pizza, also known as Bánh Tráng Nướng, is a popular street food snack made from grilled rice paper. It is easily cooked at home with any desired toppings, such as egg, spring onion, cheese, and canned meat, such as TUNA. Unlike Italian pizza, Vietnamese pizza is traditionally grilled over charcoal, making it a quick and delicious meal. At home, it can be cooked on a regular grill or stovetop. Da Lat Vietnamese pizzas typically feature pork floss, dried shrimp, and sliced sausage. However, due to availability, it is often topped with tuna, and a collaboration with Sirena Tuna showcases this recipe. Most vendors sell these at night, with Vietnamese pizza stalls on the sidewalk. Banh Trang Nuong is definitely the best street food in Vietnam that you must try once in your life. 
+
+
+
+Che - Vietnamese Sweet Soup
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+
+
+Vietnamese street food culture
+
+
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+
+
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+
+
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+
+
+Vermicelli or noodle is the English word for “Bun” - a popular dish in the best street food in Vietnam. Bun noodle soups employ vermicelli noodles, which are round in form and have a deeper white color when cooked, in place of the "banh pho" (a flat rice noodle) that is used in Pho. There are many kinds of Bun: Bun Cha, Bun Moc, Bun Mam, Bun Bo Hue, Bun Rieu, Banh Canh... Bun Moc is one of the vermicelli that is loved by most Vietnamese and foreign tourists. Noodles with ingredients are raw spring rolls, also known as sprouts, so they are called sprouted vermicelli... can be served with chili, shrimp paste, satay, raw vegetables, and lemon. However, each Bun has its unity and taste that you should try for your visit to Vietnam. 
+
+Click here to learn more about Best Vietnamese Bun.
+
+
+
+Bún Đậu Mắm Tôm - "Vietnamese salad"
+
+
+
+Bun dau mam tom, also known as "mam tom," is a Vietnamese salad dish with shrimp paste and preserved lime leaves. Bun dau mam tom is a controversial dish with rice noodles, tofu, and fermented shrimp paste as its star ingredient. If you do not know how to eat mam tom (shrimp paste) like me, you can try this dish with fish sauce, this is still a  good choice. It is a popular side dish in Vietnamese cuisine and can be served as an appetizer or main course. De Bun Dau Mam Tom is more costly than the pork variant since it requires specialized cooking and fish texture understanding. Originating in Hanoi, the dish's origin remains uncertain, even among locals.
+
+Where to eat Bun Dau Mam Tom?
+
+- Bun Dau Co Tuyen: No.31 Lane 29, Hang Khay Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Ngo Gach: 4 Ngo Gach, Hang Buom Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Trung Huong: 49 Phat Loc Lane, Hang Bac Street, Hanoi
+
+- Bun Dau Ngo Tram: 1B Ngo Tram, Hoan Kiem district, Hanoi
+
+- Bun Dau Cay Da: 235B Thuy Khue Street, Tay Ho district, Hanoi
+
+
+
+Ca Phe Trung - Vietnamese Egg Coffee
+
+
+Vietnamese Egg Coffee (cà phê trứng) is a rich, flavorful, and thick-bodied coffee beverage made with raw egg yolk and condensed milk. Originating at The Giang Cafe in Hanoi, it is affordable and accessible to everyone. This silky, sweet, and creamy dessert coffee has a sweet eggy foam atop a dark brew, resembling tiramisu. The popularity of Vietnamese Egg Coffee is due to its customizable topping options, ranging from traditional coffee pairings like spices to unusual ones like butter and cheese. This delicious drink has inspired numerous baristas worldwide to imitate and create their own unique twists. This article provides a history of the drink's origin and offers recipes for homemade Vietnamese Egg Coffee.
+
+Where to enjoy Ca phe Trung?
+
+- Cafe Giảng is located at 39 Nguyen Huu Huan Street - Hanoi 
+
+- NeoCafe :
+
+Establishment 1: No. 33 Le Dai Hanh Street - Hanoi 
+
+Establishment 2: No. 35B Nguyen Huu Huan Street - Hanoi 
+
+Establishment 3: No. 109 Chu Van An Street - Ho Chi Minh City
+
+- Đinh Café is located at 13 Dinh Tien Hoang, Hang Bac, Hoan Kiem, Hanoi
+
+- RuNam D'Or:
+
+District 1 Runam Cafe Locations:
+
+Runam Bistro – 2-4-6 Đong Khoi
+
+Runam Bistro – 96 Mac Thi Buoi
+
+Runam Boutique Saigon Center – 65 Le Loi 
+
+Runam Boutique Vincom Center – 72 Le Thanh Ton 
+
+- Luu Gia Cafe & Food: 8 Hoa Cuc, Phu Nhuan District, City. Ho Chi Minh City
+
+- Kafein House: 349 Su Van Hanh, Ward 12, District 10, City. Ho Chi Minh City
+
+
+
+Banh Trang Nuong - Vietnamese Pizza
+
+
+Vietnamese Pizza, also known as Bánh Tráng Nướng, is a popular street food snack made from grilled rice paper. It is easily cooked at home with any desired toppings, such as egg, spring onion, cheese, and canned meat, such as TUNA. Unlike Italian pizza, Vietnamese pizza is traditionally grilled over charcoal, making it a quick and delicious meal. At home, it can be cooked on a regular grill or stovetop. Da Lat Vietnamese pizzas typically feature pork floss, dried shrimp, and sliced sausage. However, due to availability, it is often topped with tuna, and a collaboration with Sirena Tuna showcases this recipe. Most vendors sell these at night, with Vietnamese pizza stalls on the sidewalk. Banh Trang Nuong is definitely the best street food in Vietnam that you must try once in your life. 
+
+
+
+Che - Vietnamese Sweet Soup
+
+
+Vietnamese che, or sweet soup, is a traditional dessert reflecting the rich history of Vietnamese food culture. It varies in each region, with Hanoi offering an elegant taste and Hue showcasing royal culinary sophistication. Vietnamese chè dishes include traditional sweet soups, beverages, puddings, and custard-like desserts made with water or coconut cream. Other ingredients include jellies, fruits, beans, pulses, rice, grains, and tubers. Originating in the central region of Vietnam, chè desserts are popular snack items and are traditionally offered at family gatherings celebrating a baby's first birthday. Famous Vietnamese che in the North include young rice sweet gruel, rice ball sweet soup, and sweet lotus seed gruel. Popular che include sweet beans soup, Durian sweet soup, and panna cotta lychee dessert,...
+
+Where to eat Che?
+
+- Chè Gỗ: số 9 Trần Phú, Ba Đình, Hà Nội
+
+- Quán chè Xoan: 29 Hàng Giấy, quận Hoàn Kiếm, Hà Nội
+
+- Chè thái Ý Phương: 382 Đ. Nguyễn Tri Phương, Phường 4, Quận 10, Thành phố Hồ Chí Minh
+
+- Quán chè Mỹ: 168A Nguyễn Văn Đậu, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh
+
+
+
+Goi Cuon - Spring Roll
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+
+
+Vietnamese street food culture
+
+
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+
+
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+
+
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+
+
+Vermicelli or noodle is the English word for “Bun” - a popular dish in the best street food in Vietnam. Bun noodle soups employ vermicelli noodles, which are round in form and have a deeper white color when cooked, in place of the "banh pho" (a flat rice noodle) that is used in Pho. There are many kinds of Bun: Bun Cha, Bun Moc, Bun Mam, Bun Bo Hue, Bun Rieu, Banh Canh... Bun Moc is one of the vermicelli that is loved by most Vietnamese and foreign tourists. Noodles with ingredients are raw spring rolls, also known as sprouts, so they are called sprouted vermicelli... can be served with chili, shrimp paste, satay, raw vegetables, and lemon. However, each Bun has its unity and taste that you should try for your visit to Vietnam. 
+
+Click here to learn more about Best Vietnamese Bun.
+
+
+
+Bún Đậu Mắm Tôm - "Vietnamese salad"
+
+
+
+Bun dau mam tom, also known as "mam tom," is a Vietnamese salad dish with shrimp paste and preserved lime leaves. Bun dau mam tom is a controversial dish with rice noodles, tofu, and fermented shrimp paste as its star ingredient. If you do not know how to eat mam tom (shrimp paste) like me, you can try this dish with fish sauce, this is still a  good choice. It is a popular side dish in Vietnamese cuisine and can be served as an appetizer or main course. De Bun Dau Mam Tom is more costly than the pork variant since it requires specialized cooking and fish texture understanding. Originating in Hanoi, the dish's origin remains uncertain, even among locals.
+
+Where to eat Bun Dau Mam Tom?
+
+- Bun Dau Co Tuyen: No.31 Lane 29, Hang Khay Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Ngo Gach: 4 Ngo Gach, Hang Buom Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Trung Huong: 49 Phat Loc Lane, Hang Bac Street, Hanoi
+
+- Bun Dau Ngo Tram: 1B Ngo Tram, Hoan Kiem district, Hanoi
+
+- Bun Dau Cay Da: 235B Thuy Khue Street, Tay Ho district, Hanoi
+
+
+
+Ca Phe Trung - Vietnamese Egg Coffee
+
+
+Vietnamese Egg Coffee (cà phê trứng) is a rich, flavorful, and thick-bodied coffee beverage made with raw egg yolk and condensed milk. Originating at The Giang Cafe in Hanoi, it is affordable and accessible to everyone. This silky, sweet, and creamy dessert coffee has a sweet eggy foam atop a dark brew, resembling tiramisu. The popularity of Vietnamese Egg Coffee is due to its customizable topping options, ranging from traditional coffee pairings like spices to unusual ones like butter and cheese. This delicious drink has inspired numerous baristas worldwide to imitate and create their own unique twists. This article provides a history of the drink's origin and offers recipes for homemade Vietnamese Egg Coffee.
+
+Where to enjoy Ca phe Trung?
+
+- Cafe Giảng is located at 39 Nguyen Huu Huan Street - Hanoi 
+
+- NeoCafe :
+
+Establishment 1: No. 33 Le Dai Hanh Street - Hanoi 
+
+Establishment 2: No. 35B Nguyen Huu Huan Street - Hanoi 
+
+Establishment 3: No. 109 Chu Van An Street - Ho Chi Minh City
+
+- Đinh Café is located at 13 Dinh Tien Hoang, Hang Bac, Hoan Kiem, Hanoi
+
+- RuNam D'Or:
+
+District 1 Runam Cafe Locations:
+
+Runam Bistro – 2-4-6 Đong Khoi
+
+Runam Bistro – 96 Mac Thi Buoi
+
+Runam Boutique Saigon Center – 65 Le Loi 
+
+Runam Boutique Vincom Center – 72 Le Thanh Ton 
+
+- Luu Gia Cafe & Food: 8 Hoa Cuc, Phu Nhuan District, City. Ho Chi Minh City
+
+- Kafein House: 349 Su Van Hanh, Ward 12, District 10, City. Ho Chi Minh City
+
+
+
+Banh Trang Nuong - Vietnamese Pizza
+
+
+Vietnamese Pizza, also known as Bánh Tráng Nướng, is a popular street food snack made from grilled rice paper. It is easily cooked at home with any desired toppings, such as egg, spring onion, cheese, and canned meat, such as TUNA. Unlike Italian pizza, Vietnamese pizza is traditionally grilled over charcoal, making it a quick and delicious meal. At home, it can be cooked on a regular grill or stovetop. Da Lat Vietnamese pizzas typically feature pork floss, dried shrimp, and sliced sausage. However, due to availability, it is often topped with tuna, and a collaboration with Sirena Tuna showcases this recipe. Most vendors sell these at night, with Vietnamese pizza stalls on the sidewalk. Banh Trang Nuong is definitely the best street food in Vietnam that you must try once in your life. 
+
+
+
+Che - Vietnamese Sweet Soup
+
+
+Vietnamese che, or sweet soup, is a traditional dessert reflecting the rich history of Vietnamese food culture. It varies in each region, with Hanoi offering an elegant taste and Hue showcasing royal culinary sophistication. Vietnamese chè dishes include traditional sweet soups, beverages, puddings, and custard-like desserts made with water or coconut cream. Other ingredients include jellies, fruits, beans, pulses, rice, grains, and tubers. Originating in the central region of Vietnam, chè desserts are popular snack items and are traditionally offered at family gatherings celebrating a baby's first birthday. Famous Vietnamese che in the North include young rice sweet gruel, rice ball sweet soup, and sweet lotus seed gruel. Popular che include sweet beans soup, Durian sweet soup, and panna cotta lychee dessert,...
+
+Where to eat Che?
+
+- Chè Gỗ: số 9 Trần Phú, Ba Đình, Hà Nội
+
+- Quán chè Xoan: 29 Hàng Giấy, quận Hoàn Kiếm, Hà Nội
+
+- Chè thái Ý Phương: 382 Đ. Nguyễn Tri Phương, Phường 4, Quận 10, Thành phố Hồ Chí Minh
+
+- Quán chè Mỹ: 168A Nguyễn Văn Đậu, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh
+
+
+
+Goi Cuon - Spring Roll
+
+
+Goi cuon, a popular Vietnamese street food, is a versatile and light snack that caters to diverse regional palates. Spring rolls may easily be made vegetarian by using a variety of vegetables, such as mushrooms, purple cabbage, carrots, bell peppers, and tofu or tofu skin in place of the meat. The dipping sauce plays a crucial role in the taste, with Saigon preferring mixed fermented soybean sauce for sweetness and the Mekong Delta adding coconut milk for the creamy texture. The best way to eat goi cuon is by sitting on plastic stools and watching street vendors make the rolls. Order by number and specify your preferred sauce or request. Enjoy the delicious and versatile goi cuon.
+
+Where to eat Goi Cuon?
+
+- Gỏi cuốn Tôm Nhảy LLQĐịa chỉ: 424 Lạc Long Quân, Quận 11, TP. HCM
+
+- Quán gỏi cuốn hạnh: 420A Hoà Hảo, Quận 10, TP. HCM
+
+- Cuốn N Roll – Tiệm gỏi cuốn tôm thịt Hà Nội
+
+Cơ sở 1: Tầng 3 Tòa Nhà D2 Giảng Võ, quận Ba Đình, Hà Nội
+
+Cơ sở 2: Số 3, ngõ Bà Triệu, quận Hai Bà Trưng, Hà Nội
+
+Cơ sở 3: Số 17T6 Hoàng Đạo Thúy, quận Thanh Xuân, Hà Nội
+
+Cơ sở 4: Tầng 1 Sunrise Building, 90 Trần Thái Tông, quận Cầu Giấy, Hà Nội
+
+- Gỏi cuốn 11 Phùng Hưng: Số 11 Phùng Hưng, Hàng Mã, Hoàn Kiếm, Hà Nội
+
+
+
+Banh Xeo - Vietnamese sizzling pancakes
+Best street food in Vietnam
+  Aug 11, 2023   By Ms. Anh Thu
+Overview
+
+Have you tried the best street food in Vietnam? Do you know that Vietnam is one of the places with the best street food in the world, according to a review from Lonely Planet? Vietnamese cuisine seems to be an invisible string holding the footsteps of distant guests. If you are on a trip to Vietnam and wonder which street food to try, you are in the right place. Let’s explore the top 10 best street food in Vietnam!
+
+
+
+Vietnamese cuisine
+
+
+Vietnamese cuisine reflects the Vietnamese lifestyle and the country's struggle with poverty and war. Despite being used from inexpensive ingredients, Vietnamese cuisine creates a yin-yang balance, making it simple yet rich in flavor. The cooks combine cool ingredients with hot ones, such as seafood with chili, ginger, lemongrass, or duck meat with ginger. Seasonal dishes also provide a contrast between the heat of the food and the environment. Vietnamese cuisine is low in fat, using boiled, steamed, stewed, and braised dishes to maintain the nutrients of the ingredients. Vegetables and herbs are widely used to provide complex flavors and healthiness, making it one of the healthiest cuisines globally.
+
+
+
+Vietnamese street food culture
+
+
+Street food in Vietnam is a unique blend of traditional Vietnamese dishes and other nations' cultures. Vietnamese street food has evolved to create unique and delicious dishes with a balance of ingredients, ensuring refreshing flavors, natural tastes, and health benefits. Each dish offers a variety of flavors, including sour, spicy, salty, and sweet, making it a popular choice for tourists. Coming to Vietnam, you should try this street food which is incredibly delicious at a reasonable price from just 1$ to 5$. 
+
+
+
+Top 10 Vietnamese street foodPho - Traditional Vietnamese noodle soup 
+
+
+Pho, a traditional Vietnamese noodle soup has gained a worldwide reputation and appeared as a single lexeme on prestigious English dictionary websites such as Cambridge or Oxford. Pho originated in Hanoi and is considered the national dish of Vietnam today. It is made with beef broth, rice noodles, sliced beef, and various toppings like fresh herbs, bean sprouts, lime wedges, and hot sauces. Pho is a restorative, savory, rich, and refreshing food that can be enjoyed year-round and at any time of day. Its thick, flavorful, and crisp texture make it a popular breakfast in Vietnam, making it a popular choice for any time of day. Pho is a popular breakfast dish in Vietnam due to its filling and nourishing nature. You can find out the best Pho Restaurants in Hanoi as well.
+
+Where to eat Pho?
+
+- Pho Bat Dan: 49 Bat Dan Street, Hoan Kiem district, Hanoi
+
+- Pho Thin is located at 13 Lo Duc Street in Hai Ba Trung, Hanoi. 
+
+- Pho 10 Ly Quoc Su is located at 10 Ly Quoc Su Street, Hoan Kiem, Hanoi.
+
+- Pho Suong is located at 36B Mai Hac De Street, Hai Ba Trung district, Hanoi
+
+- Pho Vui is located at 25 Hang Giay Street, Hoan Kiem district, Hanoi
+
+
+
+Banh mi - Vietnamese Sandwich
+
+
+Similar to Pho, Banh Mi is also a Vietnamese dish that gains a worldwide reputation. According to Oxford Dictionary, Banh mi’s pronunciation is /ˌbɑːn ˈmiː/, is a Vietnamese sandwich with cold meats, pâté, vegetables, and herbs. It is a popular dish in Vietnamese cuisine, appearing at global events and awards. In 2017, Vietnamese bread was ranked among the top 10 most attractive sandwiches in the world by Traveler and one of the best street foods in the world by Rough Guides. Banh Mi is a common fast food in Vietnam, serving breakfast, lunch, and dinner. The taste of Banh Mi has become an interfusion of French and Vietnamese culinary art. related topics: Best Banh mi Restaurants in Hanoi and best Banh Mi restaurants in Ho Chi Minh
+
+Where to eat Banh Mi?
+
+- Banh Mi Phuong: 2B Phan Chu Trinh Str
+
+- Banh Mi 25: 25 Hang Ca Str
+
+- Banh Mi Pate: 20 Cha Ca Str
+
+- Banh Mi Tram: 252 Cua Nam Str, Hoan Kiem
+
+
+
+Bun - Vietnamese noodle
+
+
+Vermicelli or noodle is the English word for “Bun” - a popular dish in the best street food in Vietnam. Bun noodle soups employ vermicelli noodles, which are round in form and have a deeper white color when cooked, in place of the "banh pho" (a flat rice noodle) that is used in Pho. There are many kinds of Bun: Bun Cha, Bun Moc, Bun Mam, Bun Bo Hue, Bun Rieu, Banh Canh... Bun Moc is one of the vermicelli that is loved by most Vietnamese and foreign tourists. Noodles with ingredients are raw spring rolls, also known as sprouts, so they are called sprouted vermicelli... can be served with chili, shrimp paste, satay, raw vegetables, and lemon. However, each Bun has its unity and taste that you should try for your visit to Vietnam. 
+
+Click here to learn more about Best Vietnamese Bun.
+
+
+
+Bún Đậu Mắm Tôm - "Vietnamese salad"
+
+
+
+Bun dau mam tom, also known as "mam tom," is a Vietnamese salad dish with shrimp paste and preserved lime leaves. Bun dau mam tom is a controversial dish with rice noodles, tofu, and fermented shrimp paste as its star ingredient. If you do not know how to eat mam tom (shrimp paste) like me, you can try this dish with fish sauce, this is still a  good choice. It is a popular side dish in Vietnamese cuisine and can be served as an appetizer or main course. De Bun Dau Mam Tom is more costly than the pork variant since it requires specialized cooking and fish texture understanding. Originating in Hanoi, the dish's origin remains uncertain, even among locals.
+
+Where to eat Bun Dau Mam Tom?
+
+- Bun Dau Co Tuyen: No.31 Lane 29, Hang Khay Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Ngo Gach: 4 Ngo Gach, Hang Buom Street, Hoan Kiem district, Hanoi
+
+- Bun Dau Trung Huong: 49 Phat Loc Lane, Hang Bac Street, Hanoi
+
+- Bun Dau Ngo Tram: 1B Ngo Tram, Hoan Kiem district, Hanoi
+
+- Bun Dau Cay Da: 235B Thuy Khue Street, Tay Ho district, Hanoi
+
+
+
+Ca Phe Trung - Vietnamese Egg Coffee
+
+
+Vietnamese Egg Coffee (cà phê trứng) is a rich, flavorful, and thick-bodied coffee beverage made with raw egg yolk and condensed milk. Originating at The Giang Cafe in Hanoi, it is affordable and accessible to everyone. This silky, sweet, and creamy dessert coffee has a sweet eggy foam atop a dark brew, resembling tiramisu. The popularity of Vietnamese Egg Coffee is due to its customizable topping options, ranging from traditional coffee pairings like spices to unusual ones like butter and cheese. This delicious drink has inspired numerous baristas worldwide to imitate and create their own unique twists. This article provides a history of the drink's origin and offers recipes for homemade Vietnamese Egg Coffee.
+
+Where to enjoy Ca phe Trung?
+
+- Cafe Giảng is located at 39 Nguyen Huu Huan Street - Hanoi 
+
+- NeoCafe :
+
+Establishment 1: No. 33 Le Dai Hanh Street - Hanoi 
+
+Establishment 2: No. 35B Nguyen Huu Huan Street - Hanoi 
+
+Establishment 3: No. 109 Chu Van An Street - Ho Chi Minh City
+
+- Đinh Café is located at 13 Dinh Tien Hoang, Hang Bac, Hoan Kiem, Hanoi
+
+- RuNam D'Or:
+
+District 1 Runam Cafe Locations:
+
+Runam Bistro – 2-4-6 Đong Khoi
+
+Runam Bistro – 96 Mac Thi Buoi
+
+Runam Boutique Saigon Center – 65 Le Loi 
+
+Runam Boutique Vincom Center – 72 Le Thanh Ton 
+
+- Luu Gia Cafe & Food: 8 Hoa Cuc, Phu Nhuan District, City. Ho Chi Minh City
+
+- Kafein House: 349 Su Van Hanh, Ward 12, District 10, City. Ho Chi Minh City
+
+
+
+Banh Trang Nuong - Vietnamese Pizza
+
+
+Vietnamese Pizza, also known as Bánh Tráng Nướng, is a popular street food snack made from grilled rice paper. It is easily cooked at home with any desired toppings, such as egg, spring onion, cheese, and canned meat, such as TUNA. Unlike Italian pizza, Vietnamese pizza is traditionally grilled over charcoal, making it a quick and delicious meal. At home, it can be cooked on a regular grill or stovetop. Da Lat Vietnamese pizzas typically feature pork floss, dried shrimp, and sliced sausage. However, due to availability, it is often topped with tuna, and a collaboration with Sirena Tuna showcases this recipe. Most vendors sell these at night, with Vietnamese pizza stalls on the sidewalk. Banh Trang Nuong is definitely the best street food in Vietnam that you must try once in your life. 
+
+
+
+Che - Vietnamese Sweet Soup
+
+
+Vietnamese che, or sweet soup, is a traditional dessert reflecting the rich history of Vietnamese food culture. It varies in each region, with Hanoi offering an elegant taste and Hue showcasing royal culinary sophistication. Vietnamese chè dishes include traditional sweet soups, beverages, puddings, and custard-like desserts made with water or coconut cream. Other ingredients include jellies, fruits, beans, pulses, rice, grains, and tubers. Originating in the central region of Vietnam, chè desserts are popular snack items and are traditionally offered at family gatherings celebrating a baby's first birthday. Famous Vietnamese che in the North include young rice sweet gruel, rice ball sweet soup, and sweet lotus seed gruel. Popular che include sweet beans soup, Durian sweet soup, and panna cotta lychee dessert,...
+
+Where to eat Che?
+
+- Chè Gỗ: số 9 Trần Phú, Ba Đình, Hà Nội
+
+- Quán chè Xoan: 29 Hàng Giấy, quận Hoàn Kiếm, Hà Nội
+
+- Chè thái Ý Phương: 382 Đ. Nguyễn Tri Phương, Phường 4, Quận 10, Thành phố Hồ Chí Minh
+
+- Quán chè Mỹ: 168A Nguyễn Văn Đậu, Phường 7, Bình Thạnh, Thành phố Hồ Chí Minh
+
+
+
+Goi Cuon - Spring Roll
+
+
+Goi cuon, a popular Vietnamese street food, is a versatile and light snack that caters to diverse regional palates. Spring rolls may easily be made vegetarian by using a variety of vegetables, such as mushrooms, purple cabbage, carrots, bell peppers, and tofu or tofu skin in place of the meat. The dipping sauce plays a crucial role in the taste, with Saigon preferring mixed fermented soybean sauce for sweetness and the Mekong Delta adding coconut milk for the creamy texture. The best way to eat goi cuon is by sitting on plastic stools and watching street vendors make the rolls. Order by number and specify your preferred sauce or request. Enjoy the delicious and versatile goi cuon.
+
+Where to eat Goi Cuon?
+
+- Gỏi cuốn Tôm Nhảy LLQĐịa chỉ: 424 Lạc Long Quân, Quận 11, TP. HCM
+
+- Quán gỏi cuốn hạnh: 420A Hoà Hảo, Quận 10, TP. HCM
+
+- Cuốn N Roll – Tiệm gỏi cuốn tôm thịt Hà Nội
+
+Cơ sở 1: Tầng 3 Tòa Nhà D2 Giảng Võ, quận Ba Đình, Hà Nội
+
+Cơ sở 2: Số 3, ngõ Bà Triệu, quận Hai Bà Trưng, Hà Nội
+
+Cơ sở 3: Số 17T6 Hoàng Đạo Thúy, quận Thanh Xuân, Hà Nội
+
+Cơ sở 4: Tầng 1 Sunrise Building, 90 Trần Thái Tông, quận Cầu Giấy, Hà Nội
+
+- Gỏi cuốn 11 Phùng Hưng: Số 11 Phùng Hưng, Hàng Mã, Hoàn Kiếm, Hà Nội
+
+
+
+Banh Xeo - Vietnamese sizzling pancakes
+
+
+Banh Xeo, also known as Vietnamese sizzling pancakes, is a popular street food in Vietnam. It is popular in the Central and Southern regions. The crust is made with fine rice flour, turmeric powder, and salt, with some suggesting adding wheat flour or all-purpose flour for crispiness. The fillings typically include prawns and pork belly, with mung beans and bean sprouts for freshness. Different proteins, such as chicken, duck, or seafood, can be added for a unique version. To eat banh Xeo, you have to tear banh Xeo and place it on the rice paper sheet with vegetables and pickles, roll it tightly, dip it in chili garlic sweet and sour fish sauce, and enjoy the explosion of flavor in your mouth.
+
+Where to eat Banh Xeo?
+
+- Banh Xeo Loan Béo - 153D Đội Cấn: 153D Đội Cấn, Ba Đình, Hà Nội
+
+- Bánh xèo Sáu Phước - Quán bánh xèo nổi tiếng Hà Nội: 74 Cầu Đất, Hoàn Kiếm, Hà Nội
+
+- Bánh Xèo Bà Hai: 49 Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận, Thành phố Hồ Chí Minh
+
+- Bánh Xèo Long Huy: 21 Trương Định, P6, Q3, Thành phố Hồ Chí Minh
+
+
+
+Oc - Vietnamese Snails
+Vietnamese snails are a popular social food and a delicious snack that many enjoy sharing with friends and family. They are part of the "community" culture, where people gather at street food stalls, vendors, and fine restaurants to chat and enjoy snail dishes. In Vietnam, snail-eating culture includes shells, clams, and squids, as well as other seafood. The process of plucking meat from shells, dipping it in special sauce, chewing, and sipping cold beer encourages enthusiasm and conversation. While snails can be enjoyed without alcohol, it's better to have a cold beer or Vietnamese rice wine. It's important to use your hands to crack shells open, as the steaming water or sauce can rip on your hands and stain your shirt. 
+
+Where to eat Oc?
+
+- Ốc Trang Đinh Liệt: 1A Đinh Liệt, Hoàn Kiếm, Hà Nội
+
+- Ốc Ông Thu Hàng Bạc: 56 Hàng Bạc Hoàn Kiếm Hà Nội
+
+- Ốc Nhỏ: 103H1 Hoàng Đạo Thành, Kim Giang, Thanh Xuân, Hà Nội
+
+- Ốc Như quận 10: 650/4/29D đường Điện Biên Phủ, phường 11, quận 10, TP. HCM
+
+- Ốc Nho quận 4: 178 đường Lê Quốc Hưng, phường 12, quận 4, TP. HCM
+
+
+
+Tips for travelers to enjoy the best street food in Vietnam
+- To make sure you don't get food poisoning, you need to pay attention to eating in places where many people are eating, instead of empty restaurants. More people eating means that food is constantly being delivered, fresh all the time.
+
+- Use napkins or tissue to clean dishes and utensils before eating for hygiene.
+
+- If you limit eating raw vegetables for fear of pesticides or have not been washed properly, you can ask the seller to blanch them in boiling water.
+
+
+Vietnam's dynamic food culture enchants locals and tourists with an array of street eats, creating a blend of flavors for everyone to savor.
+TasteAtlas, an online food magazine, has revealed a list of Vietnam's top 8 street foods that is perfect for adventurous travelers exploring the country.
+
+1. Pho
+
+TasteAtlas described pho as more than just a Vietnamese noodle soup - it's a cultural icon, a favorite street food, and a satisfying comfort. Traditionally, it's crafted from simmered chicken or beef broth, patiently cooked for over three hours. A medley of herbs and spices enhances the taste, while rice noodles, beef, and sprouts take the dish to new heights.
+
+The most popular variety, beef pho, uses different cuts of beef, like bones, shank, oxtail, and neck for the broth, while toppings include brisket, flank, eye-round steak, tripe, raw and cooked beef, tendon. In southern Vietnam, a popular topping that sets it apart from other areas is beef balls.
+
+Chicken pho features various chicken parts, with lighter broth than beef pho. It's often garnished with lime, mint, chili, bean sprouts, and basil. This pho variety was believed to be created in the 1930s when beef was scarce.
+
+2. Banh mi
+
+Banh mi are Vietnamese sandwiches with a common type of bread - a baguette. The baguette was introduced to Vietnam during the colonial era and remains an influence from that time. The crispy baguette, toppings, and meats are traces of French and Chinese colonial history, while cilantro, chili, and pickles showcase Vietnamese preferences for flavors and vegetables.
+
+Variations abound across different regions, showcasing diverse fillings such as pate, fried eggs, and different types of cold cuts such as pork rolls, sausages, and ham. Served alongside fresh herbs, pickled vegetables, and chili sauce, banh mi caters to all tastes.
+
+3. Fried spring rolls
+
+In Vietnam, these delicious treats go by two names: cha gio in the south and nem ran in the north. These rolls are typically filled with a mixture of pork and shrimp, wrapped in rice paper.
+
+Often, they're enhanced with ingredients like carrots, cabbage, mushrooms, glass noodles, and bean sprouts. After a quick fry, they emerge with a golden hue, a thin, crispy outer layer, and a delightful filling. They are served hot, accompanied by sweet fish sauce, herbs, and rice or vermicelli.
+
+4. Banh xeo (Crispy pancakes)
+
+Banh xeo, also known as sizzling pancakes, is a Vietnamese dish that merges crispy crepes with savory components. A key Vietnamese touch is the use of rice flour, blended with water, turmeric, and coconut milk or cream, resulting in a rich yellow batter.
+
+After stir frying ingredients like scallions, bean sprouts, shrimps, and pork or beef, the mixture is poured onto a pan. Cooked over low heat, the pancake is then folded in half, enveloping the fillings within. It is commonly served with sweet fish sauce or savory peanut sauce.
+
+5. Sticky rice
+
+Sticky rice comes in countless variations and is readily available from roadside stalls to upscale eateries. Created using steamed sticky rice, it offers both savory and sweet options.
+
+Traditionally wrapped in a banana leaf, sticky rice is often enjoyed as an affordable breakfast or a midday snack. Common ingredients for savory sticky rice include pork rolls, Chinese sausage, shredded chicken, dried shrimps, and pork or chicken floss. Meanwhile, sweet sticky rice can include fruits like mango, red sweet gourd, durian, and coconut, as well as mung beans and cassava.
+
+6. Banh beo (Steamed rice cake)
+
+Banh beo is a steamed cake made from rice flour, served with fish sauce, green chili peppers, and either shrimps or pork. Regional variations incorporate roasted peanuts, fried onions, or shrimp for heightened flavor.
+
+In addition to the savory cakes, there are sweet versions mainly found in Hoi An. It's typically served on small porcelain plates, around 5-6 cm in diameter in the central region, but larger ones can be found in Hai Phong. An important feature of a good banh beo is a central indentation that holds the savory fillings.
+
+7. Banh cuon (Steamed rice rolls)
+
+Banh cuon is a street food made of thin, steamed rice rolls filled with pork, mushrooms, or both. It's often topped with a generous amount of fried shallots, and served with sweet and sour fish sauce, as well as fresh herbs. Creating these see-through steamed rolls requires expertise. In Vietnam, it is commonly enjoyed for breakfast.
+
+8. Com tam (Broken rice)
+
+Com tam is a Vietnamese street food made from broken rice grains that used to be discarded after milling. The rice has a texture similar to regular rice, just smaller. The dish is served with various toppings like fried eggs, shredded pork skin, grilled pork chops, or deep-fried fish patties. It's garnished with scallion oil, and often comes with side dishes like sliced tomatoes, cucumbers, pickled vegetables, and a side of sweet fish sauces.
+
+Diners can easily spot com tam stalls by the coal-fired grill on the street, giving off a fragrant aroma of charred meat from preparing the dish. In the past, these rice grains were either used as animal feed or consumed by farmers and their families.
