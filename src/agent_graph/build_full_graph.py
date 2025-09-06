@@ -1,10 +1,10 @@
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import StateGraph, START
 from langchain_openai import ChatOpenAI
+from langchain_core.messages import SystemMessage
 from agent_graph.tool_tavily_search import load_tavily_search_tool
 from agent_graph.load_tools_config import LoadToolsConfig
 from agent_graph.agent_backend import State, BasicToolNode, route_tools, plot_agent_schema
-from agent_graph.tool_stories_rag import lookup_stories
 from agent_graph.tool_vietnam_travel_rag import lookup_vietnam_travel
 
 TOOLS_CFG = LoadToolsConfig()
@@ -63,7 +63,26 @@ def build_graph():
 
     def chatbot(state: State):
         """Executes the primary language model with tools bound and returns the generated message."""
-        return {"messages": [primary_llm_with_tools.invoke(state["messages"])]}
+        messages = state["messages"]
+        
+        # Add system prompt to ensure travel-focused responses
+        system_prompt = SystemMessage(
+            content="""You are a specialized travel assistant focused exclusively on helping users plan trips and answer travel-related questions. 
+                    IMPORTANT INSTRUCTIONS:
+                    - ONLY respond to questions related to travel, tourism, destinations, accommodations, transportation, weather for travel, food/dining while traveling, attractions, local culture, travel planning, budgeting for trips, travel documents, packing, or similar travel topics.
+                    - If a user asks about non-travel topics (like programming, math, general knowledge, jokes, etc.), politely redirect them by saying: "I'm a travel assistant focused on helping you plan your trips and answer travel-related questions. I can help you with destinations, accommodations, transportation, weather, attractions, local culture, and travel planning. Please ask me something about travel, and I'll be happy to assist you!"
+                    - Be helpful and informative for all travel-related queries.
+                    - You have access to tools for searching current information and Vietnam travel knowledge base.
+                    """
+        )
+        
+        # Insert system message at the beginning if not already present
+        if not messages or not isinstance(messages[0], SystemMessage):
+            messages_with_system = [system_prompt] + messages
+        else:
+            messages_with_system = messages
+            
+        return {"messages": [primary_llm_with_tools.invoke(messages_with_system)]}
 
     graph_builder.add_node("chatbot", chatbot)
     tool_node = BasicToolNode(
